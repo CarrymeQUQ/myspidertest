@@ -1,0 +1,42 @@
+﻿{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190905/100_0209.png",
+    "room_title(房间标题)": "【PCL】维寒迪第三周",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "斗鱼绝地赛事",
+    "watch_num(主播热度)": "176.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/06/b472d587629c7a064e30567c91edba3e.jpg",
+    "room_title(房间标题)": "今天联赛哦",
+    "room_cate(房间分类)": "CS:GO",
+    "anchor_name(主播ID)": "Big茄子",
+    "watch_num(主播热度)": "164.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/04/488b911fad6e5b299b15643a30c2c0f9.jpg",
+    "room_title(房间标题)": "今天有点事，晚点来兄弟们",
+    "room_cate(房间分类)": "lol云顶之弈",
+    "anchor_name(主播ID)": "十七qwe",
+    "watch_num(主播热度)": "24.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190905/5296442_0209.png",
+    "room_title(房间标题)": "枪法如神.身法如画.",
+    "room_cate(房间分类)": "和平精英",
+    "anchor_name(主播ID)": "青迈丶",
+    "watch_num(主播热度)": "12.3万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190905/848337_0204.png",
+    "room_title(房间标题)": "刘美家做客",
+    "room_cate(房间分类)": "户外",
+    "anchor_name(主播ID)": "俄罗斯教父",
+    "watch_num(主播热度)": "97.4万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190905/5669195_0209.png",
+    "room_title(房间标题)": "国一亚瑟  1950冲2000呜呜呜",
+    "room_cate(房间分类)": "王者荣耀",
+    "anchor_name(主播ID)": "亚瑟王丶Z",
+    "watch_num(主播热度)": "18.6万"
+}
