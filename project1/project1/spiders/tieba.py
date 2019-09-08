@@ -30,7 +30,8 @@ class TiebaSpider(scrapy.Spider):
             )
 
         # 提取下一页地址
-        current_page = int(re.findall(r"\"current_page\":(.*?),", response.body.decode("utf-8"), re.S)[0])
+        current_page = re.findall(r"\"current_page\":(.*?),", response.body.decode("utf-8"), re.S)
+        current_page = int(current_page[0]) if len(current_page) >0 else None
         total_page = int(re.findall(r"\"total_page\":(.*?),", response.body.decode("utf-8"), re.S)[0])
         # print(current_page)
         # print(total_page)
