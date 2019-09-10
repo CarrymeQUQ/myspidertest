@@ -2,7 +2,8 @@
 import scrapy
 import re
 
-# 这种方式是在form 表单中有action地址的前提下
+# 第三种 这种方式是在form 表单中有action地址的前提下 自动寻找form表单中的action地址
+# scrapy.FormRequest.from_response(response, 帐号密码formdata, callback)
 class GithubFromResponseSpider(scrapy.Spider):
     name = 'github_from_response'
     allowed_domains = ['github.com']
