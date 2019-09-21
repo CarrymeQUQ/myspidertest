@@ -1,3402 +1,840 @@
 ﻿{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190905/100_0209.png",
-    "room_title(房间标题)": "【PCL】维寒迪第三周",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/21/1259f77623e08e7756b7f36ef46fcee6.jpg",
+    "room_title(房间标题)": "CFSI 埃及邀请赛",
+    "room_cate(房间分类)": "穿越火线",
+    "anchor_name(主播ID)": "穿越火线运营团队",
+    "watch_num(主播热度)": "208.4万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/709710_2119.png",
+    "room_title(房间标题)": "网络巨人cxz 晚上12点抽奖 ：）",
     "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "斗鱼绝地赛事",
-    "watch_num(主播热度)": "176.8万"
+    "anchor_name(主播ID)": "imxiaoxin",
+    "watch_num(主播热度)": "35.3万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/06/b472d587629c7a064e30567c91edba3e.jpg",
-    "room_title(房间标题)": "今天联赛哦",
-    "room_cate(房间分类)": "CS:GO",
-    "anchor_name(主播ID)": "Big茄子",
-    "watch_num(主播热度)": "164.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/04/488b911fad6e5b299b15643a30c2c0f9.jpg",
-    "room_title(房间标题)": "今天有点事，晚点来兄弟们",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/13/e09b4c155465dd2fd8a64c3eb5ba3c19.jpg",
+    "room_title(房间标题)": "芝：园长怀旧狂野龙法",
     "room_cate(房间分类)": "lol云顶之弈",
-    "anchor_name(主播ID)": "十七qwe",
-    "watch_num(主播热度)": "24.8万"
+    "anchor_name(主播ID)": "芝芝小甜瓜",
+    "watch_num(主播热度)": "30.3万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190905/5296442_0209.png",
-    "room_title(房间标题)": "枪法如神.身法如画.",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/134000_2119.png",
+    "room_title(房间标题)": "神仙操作实战教学，无敌Q天秀~~",
     "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "青迈丶",
-    "watch_num(主播热度)": "12.3万"
+    "anchor_name(主播ID)": "小QIMBA",
+    "watch_num(主播热度)": "50.1万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190905/848337_0204.png",
-    "room_title(房间标题)": "刘美家做客",
-    "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "俄罗斯教父",
-    "watch_num(主播热度)": "97.4万"
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/09/04/677f66fc1ff9d590573251592b698f15_big.jpg",
+    "room_title(房间标题)": "准时直播的小可爱",
+    "room_cate(房间分类)": "颜值",
+    "anchor_name(主播ID)": "萌之初3",
+    "watch_num(主播热度)": "4万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190905/5669195_0209.png",
-    "room_title(房间标题)": "国一亚瑟  1950冲2000呜呜呜",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/2157153_2125.png",
+    "room_title(房间标题)": "房管的N个荣耀~",
     "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "亚瑟王丶Z",
-    "watch_num(主播热度)": "18.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/9999_1341.png",
-    "room_title(房间标题)": "OB青训起航！",
-    "room_cate(房间分类)": "DOTA2",
-    "anchor_name(主播ID)": "yyfyyf",
-    "watch_num(主播热度)": "211.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/100_1341.png",
-    "room_title(房间标题)": "【PCL】周决赛 7号17点",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "斗鱼绝地赛事",
-    "watch_num(主播热度)": "179万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/04/637e3a09579b78eb2ba6cecb004c21a2.jpg",
-    "room_title(房间标题)": "电1王者1600，思路，营运，站位讲解。",
-    "room_cate(房间分类)": "lol云顶之弈",
-    "anchor_name(主播ID)": "JMR金叫唤",
-    "watch_num(主播热度)": "6.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5519174_1347.png",
-    "room_title(房间标题)": "三黑冲荣耀！！",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "假的短短qwq",
-    "watch_num(主播热度)": "13.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/594613_1341.png",
-    "room_title(房间标题)": "姑：今日打卡处 黄果树瀑布",
-    "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "百变姑姑肖淑洁",
-    "watch_num(主播热度)": "32万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4441739_1347.png",
-    "room_title(房间标题)": "技术女主播带粉",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "Jue美娘",
-    "watch_num(主播热度)": "23万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/06/48337c70e003df102d172dbc69a6cb13.jpg",
-    "room_title(房间标题)": "重播丨9月10日 KPL三周年特别节目",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "王者荣耀官方赛事",
-    "watch_num(主播热度)": "140.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1691127_1341.png",
-    "room_title(房间标题)": "T1 Faker的直播间！",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "T1直播faker",
-    "watch_num(主播热度)": "137.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5776683_1347.png",
-    "room_title(房间标题)": "太难了直播间",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "小奶宝baby",
+    "anchor_name(主播ID)": "七都a",
     "watch_num(主播热度)": "6.7万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4125556_833314_12bfa_2_1340.jpg",
-    "room_title(房间标题)": "这个天津主播带给你快乐",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/713543_2119.png",
+    "room_title(房间标题)": "山东小姐姐邀请你一起打游戏",
+    "room_cate(房间分类)": "王者荣耀",
+    "anchor_name(主播ID)": "可优米丶",
+    "watch_num(主播热度)": "10.4万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/06/696f53130b83b1b60b2f16522f1dc7cf.jpg",
+    "room_title(房间标题)": "【PCL】周决赛 第五周 DAY1",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "斗鱼绝地赛事",
+    "watch_num(主播热度)": "539.3万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/6516184_2121.png",
+    "room_title(房间标题)": "领取你的芭比娃娃",
+    "room_cate(房间分类)": "舞蹈",
+    "anchor_name(主播ID)": "你的酒窝er",
+    "watch_num(主播热度)": "92万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/7416203_2122.png",
+    "room_title(房间标题)": "武汉新人舞蹈主播求房管",
+    "room_cate(房间分类)": "舞蹈",
+    "anchor_name(主播ID)": "白蛇酱Uni",
+    "watch_num(主播热度)": "7.6万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/21/d499662da8aa530a4428ffb9aa597eb2.jpg",
+    "room_title(房间标题)": "重播 15时EDG.M vs VG",
+    "room_cate(房间分类)": "王者荣耀",
+    "anchor_name(主播ID)": "王者荣耀官方赛事",
+    "watch_num(主播热度)": "532.6万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/99999_2119.png",
+    "room_title(房间标题)": "周末1.5倍亲密度，今晚冲击二拖~",
+    "room_cate(房间分类)": "DNF",
+    "anchor_name(主播ID)": "旭旭宝宝",
+    "watch_num(主播热度)": "531.1万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/101_2119.png",
+    "room_title(房间标题)": "山口山练练级 7点后撸起来",
+    "room_cate(房间分类)": "英雄联盟",
+    "anchor_name(主播ID)": "即将拥有人鱼线的PDD",
+    "watch_num(主播热度)": "451.3万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/6794543_5367535_5e602_2_2115.jpg",
+    "room_title(房间标题)": "手头的事情放一放 该想我了",
+    "room_cate(房间分类)": "颜值",
+    "anchor_name(主播ID)": "鱼小灰",
+    "watch_num(主播热度)": "40.4万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/2279072_2120.png",
+    "room_title(房间标题)": "美女表演才艺，喜欢的朋友点点关注。",
+    "room_cate(房间分类)": "户外",
+    "anchor_name(主播ID)": "俄罗斯异国风情",
+    "watch_num(主播热度)": "92.4万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/4615502_2120.png",
+    "room_title(房间标题)": "团团：今晚和比心小姐姐一起玩(๑′ᴗ‵๑",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "一条小团团OvO",
+    "watch_num(主播热度)": "262.2万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/9999_2119.png",
+    "room_title(房间标题)": "手痒开锤！",
+    "room_cate(房间分类)": "DOTA2",
+    "anchor_name(主播ID)": "yyfyyf",
+    "watch_num(主播热度)": "239万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/911_2119.png",
+    "room_title(房间标题)": "骚白五排系列",
+    "room_cate(房间分类)": "王者荣耀",
+    "anchor_name(主播ID)": "骚白",
+    "watch_num(主播热度)": "207.7万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/7528274_5303763_506b0_2_2124.jpg",
+    "room_title(房间标题)": "8点PK哥哥们抬一手",
+    "room_cate(房间分类)": "舞蹈",
+    "anchor_name(主播ID)": "尹恩恩1",
+    "watch_num(主播热度)": "92.3万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/19/486b051dfcb6a0b7ef22fe09f4adaa54.png",
+    "room_title(房间标题)": "下雨天和大闸蟹更配哦",
     "room_cate(房间分类)": "美食",
-    "anchor_name(主播ID)": "Skr丶大伟伟",
-    "watch_num(主播热度)": "65.9万"
+    "anchor_name(主播ID)": "LinLin酱香肉",
+    "watch_num(主播热度)": "35.3万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6862649_1348.png",
-    "room_title(房间标题)": "超级粉丝团 冲冲冲",
-    "room_cate(房间分类)": "欢乐麻将",
-    "anchor_name(主播ID)": "暴Tui团丶臭帝帝",
-    "watch_num(主播热度)": "137.2万"
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/20/c0695e6773618e3c75ab825d4a8007eb.jpg",
+    "room_title(房间标题)": "9418练练练",
+    "room_cate(房间分类)": "CS:GO",
+    "anchor_name(主播ID)": "Big茄子",
+    "watch_num(主播热度)": "192.8万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/288016_1341.png",
-    "room_title(房间标题)": "LPL季军赛BLGvsTES重播",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/96291_2119.png",
+    "room_title(房间标题)": "东北大鹌鹑 相声艺术家 嘎嘎",
+    "room_cate(房间分类)": "英雄联盟",
+    "anchor_name(主播ID)": "东北大鹌鹑",
+    "watch_num(主播热度)": "165.3万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/2947432_2120.png",
+    "room_title(房间标题)": "呆妹：今天1.5倍亲密度~哥哥，不要错过",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "呆妹儿小霸王",
+    "watch_num(主播热度)": "161.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/04/04/4652236_20180404225633_small.jpg",
+    "room_title(房间标题)": "性感小野猫上线 喵~",
+    "room_cate(房间分类)": "颜值",
+    "anchor_name(主播ID)": "小火郭丶",
+    "watch_num(主播热度)": "14.7万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/6601192_2121.png",
+    "room_title(房间标题)": "这不是去幼儿园的车~",
+    "room_cate(房间分类)": "二次元",
+    "anchor_name(主播ID)": "娜娜Sweet丷",
+    "watch_num(主播热度)": "94.1万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/1457640_2119.png",
+    "room_title(房间标题)": "神秘的直播间 88080",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "仙某某",
+    "watch_num(主播热度)": "148.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/288016_2124.png",
+    "room_title(房间标题)": "23日22:00 S9抽签仪式直播！",
     "room_cate(房间分类)": "英雄联盟",
     "anchor_name(主播ID)": "英雄联盟赛事",
-    "watch_num(主播热度)": "132.7万"
+    "watch_num(主播热度)": "131.2万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/312212_1341.png",
-    "room_title(房间标题)": "找伴伴小姐姐一起打游戏",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "智勋勋勋勋",
-    "watch_num(主播热度)": "128.8万"
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/6512_2124.png",
+    "room_title(房间标题)": "梦回怪物攻城！",
+    "room_cate(房间分类)": "传奇",
+    "anchor_name(主播ID)": "雨神丶",
+    "watch_num(主播热度)": "127.3万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/10/6241657_20190810012352_small.jpg",
-    "room_title(房间标题)": "人生若只如初见 6241657",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "小泥呀n",
-    "watch_num(主播热度)": "6.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/14/46ae3ba8235277f4408720bff2d5b80a.jpg",
-    "room_title(房间标题)": "今天必须淑女",
-    "room_cate(房间分类)": "二次元",
-    "anchor_name(主播ID)": "小颖酱ovo",
-    "watch_num(主播热度)": "5.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/78561_1341.png",
-    "room_title(房间标题)": "雪龅突击队：你的快乐，我来转",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "妃凌雪",
-    "watch_num(主播热度)": "115.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/475252_1341.png",
-    "room_title(房间标题)": "今日大师！一点抽2w",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "孙悟空丨兰林汉",
-    "watch_num(主播热度)": "109.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5910850_1342.png",
-    "room_title(房间标题)": "王者局单排全能秀！输了发红包",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "温柚v最强女打野",
-    "watch_num(主播热度)": "107.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/7404075_1348.png",
-    "room_title(房间标题)": "今天又是元气满满的一天 7404075",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/6771479_2121.png",
+    "room_title(房间标题)": "你的生命中必须有一个嘉文",
     "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "娜BABY652",
-    "watch_num(主播热度)": "1.1万"
+    "anchor_name(主播ID)": "Queena嘉文",
+    "watch_num(主播热度)": "87.6万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/25/5664273_20190825135747.jpg",
-    "room_title(房间标题)": "想带你回直播间  藏起来",
-    "room_cate(房间分类)": "电台",
-    "anchor_name(主播ID)": "我的耳朵去哪啦",
-    "watch_num(主播热度)": "6.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/07/26/08cffe580f6f8e9b80d52b02f657e283.jpg",
-    "room_title(房间标题)": "SLI柏林MAJOR 重播 217344",
-    "room_cate(房间分类)": "CS:GO",
-    "anchor_name(主播ID)": "imbacsgo频道",
-    "watch_num(主播热度)": "106.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/07/26/3466f457aaccf0fbe086cb51341275d8.jpg",
-    "room_title(房间标题)": "SLI柏林Major 重播",
-    "room_cate(房间分类)": "CS:GO",
-    "anchor_name(主播ID)": "imbacsgo频道2",
-    "watch_num(主播热度)": "102.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/119_1346.png",
-    "room_title(房间标题)": "第5人格全民赛",
-    "room_cate(房间分类)": "第5人格",
-    "anchor_name(主播ID)": "移动游戏赛事活动",
-    "watch_num(主播热度)": "102.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/04/4828670_20190804145108_small.jpg",
-    "room_title(房间标题)": "轮椅主播站起来了",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "文舞的晴天啊",
-    "watch_num(主播热度)": "5.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/7437110_1349.png",
-    "room_title(房间标题)": "【3D影院】斗鱼美剧Vlog！！！",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "风流DDD",
-    "watch_num(主播热度)": "5539"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/74751_1346.png",
-    "room_title(房间标题)": "周五了，咬咬牙吧",
-    "room_cate(房间分类)": "马里奥制造",
-    "anchor_name(主播ID)": "超级小桀",
-    "watch_num(主播热度)": "95.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/482114_1346.png",
-    "room_title(房间标题)": "我来帮你买车，我不是专家，但是爱怼专家",
-    "room_cate(房间分类)": "汽车",
-    "anchor_name(主播ID)": "雪鹰哥麻辣车评",
-    "watch_num(主播热度)": "91.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/84452_1346.png",
-    "room_title(房间标题)": "阿飞）NBA2K20 球星之路",
-    "room_cate(房间分类)": "NBA2K",
-    "anchor_name(主播ID)": "主播阿飞",
-    "watch_num(主播热度)": "88.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/22/a691ae73517111e49dd27e210ddacb27.png",
-    "room_title(房间标题)": "斗鱼陈乔恩在这里",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "兔牙哈妮",
-    "watch_num(主播热度)": "2.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1689779_1346.png",
-    "room_title(房间标题)": "人家就想多卖几份大闸蟹",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/848337_2114.png",
+    "room_title(房间标题)": "寻找你心目中的她",
     "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "虾米户外",
-    "watch_num(主播热度)": "2.8万"
+    "anchor_name(主播ID)": "俄罗斯教父",
+    "watch_num(主播热度)": "86.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/1165924_2119.png",
+    "room_title(房间标题)": "喝了杯西洋参茶，困的我滴沥耷拉的",
+    "room_cate(房间分类)": "欢乐麻将",
+    "anchor_name(主播ID)": "靓旭",
+    "watch_num(主播热度)": "114.6万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/12821_2119.png",
+    "room_title(房间标题)": "和大家一起看埃及邀请赛",
+    "room_cate(房间分类)": "穿越火线",
+    "anchor_name(主播ID)": "白鲨AyoM",
+    "watch_num(主播热度)": "113.6万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/71415_2119.png",
+    "room_title(房间标题)": "寅子的随缘游戏教室",
+    "room_cate(房间分类)": "NBA2K",
+    "anchor_name(主播ID)": "寅子",
+    "watch_num(主播热度)": "112万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/10/4933024_20190810012132_small.jpg",
+    "room_title(房间标题)": "可以做你的小废物吗 4933024",
+    "room_cate(房间分类)": "颜值",
+    "anchor_name(主播ID)": "大晶要变瘦",
+    "watch_num(主播热度)": "16.4万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/11/ec14e63efbb5e52c4399533b90f6098a.jpg",
+    "room_title(房间标题)": "呱呱呱呱呱呱！，，，，，，",
+    "room_cate(房间分类)": "美食",
+    "anchor_name(主播ID)": "你的网友小董",
+    "watch_num(主播热度)": "49.4万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/290935_2119.png",
+    "room_title(房间标题)": "淑怡：有趣的灵魂万里挑一",
+    "room_cate(房间分类)": "英雄联盟",
+    "anchor_name(主播ID)": "不2不叫周淑怡",
+    "watch_num(主播热度)": "107.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/5524515_2115.png",
+    "room_title(房间标题)": "极致丝滑的普通发，今日猛男",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "陈死狗cnh",
+    "watch_num(主播热度)": "105.1万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/21/2284cdcaea88453028d28fceacd15f05.jpg",
+    "room_title(房间标题)": "顶级射手对决eStar vs GK",
+    "room_cate(房间分类)": "王者荣耀",
+    "anchor_name(主播ID)": "DL丶拖米",
+    "watch_num(主播热度)": "103.6万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/09/11/90323d80125be49ce09e066a98993f20.png",
+    "room_title(房间标题)": "湖南舞蹈主播",
+    "room_cate(房间分类)": "舞蹈",
+    "anchor_name(主播ID)": "王北北bibi",
+    "watch_num(主播热度)": "84.9万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/6683853_2116.png",
+    "room_title(房间标题)": "好好女杀手！",
+    "room_cate(房间分类)": "二次元",
+    "anchor_name(主播ID)": "好H好女杀手",
+    "watch_num(主播热度)": "80.3万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/1322998_2124.png",
+    "room_title(房间标题)": "祝邓哥生日快乐！",
+    "room_cate(房间分类)": "和平精英",
+    "anchor_name(主播ID)": "Ty脆油条",
+    "watch_num(主播热度)": "102.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/3733860_2125.png",
+    "room_title(房间标题)": "吃可爱长大的蘑菇呀~",
+    "room_cate(房间分类)": "欢乐麻将",
+    "anchor_name(主播ID)": "暴Tui团丶小蘑菇",
+    "watch_num(主播热度)": "90.9万"
 }
 {
     "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/02/740c861e721ab24f055aa7386e5966d3.jpg",
-    "room_title(房间标题)": "华山论剑夏季赛常规赛第二十一轮 【重播】",
+    "room_title(房间标题)": "华山论剑夏季赛季后赛day3 live",
     "room_cate(房间分类)": "狼人杀",
     "anchor_name(主播ID)": "华山论剑官方职业联赛",
-    "watch_num(主播热度)": "83.7万"
+    "watch_num(主播热度)": "87.1万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/30_1341.png",
-    "room_title(房间标题)": "恭喜OG夺得TI9冠军",
-    "room_cate(房间分类)": "DOTA2",
-    "anchor_name(主播ID)": "DOTA2官方赛事",
-    "watch_num(主播热度)": "81.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/2631870_1347.png",
-    "room_title(房间标题)": "商业领袖高峰论坛",
-    "room_cate(房间分类)": "鱼教",
-    "anchor_name(主播ID)": "斗鱼财经",
-    "watch_num(主播热度)": "72.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/2622693_771592_0a727_2_1340.jpg",
-    "room_title(房间标题)": "冲鸭～～～～～～～",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/5278899_6490160_33c46_2_2123.jpg",
+    "room_title(房间标题)": "与你飞行 与你坠落",
     "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "乌克兰小逗包",
-    "watch_num(主播热度)": "3.7万"
+    "anchor_name(主播ID)": "轻舞小师妹S",
+    "watch_num(主播热度)": "47.8万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1910856_1342.png",
-    "room_title(房间标题)": "今天上山做饭（≧ω≦)/",
-    "room_cate(房间分类)": "美食",
-    "anchor_name(主播ID)": "深山大咖",
-    "watch_num(主播热度)": "34.8万"
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/05/13/947b6f9b699c7c9bb81a1142169a5cca.jpg",
+    "room_title(房间标题)": "直播|温柔女声唱给你听",
+    "room_cate(房间分类)": "电台",
+    "anchor_name(主播ID)": "南曼玉",
+    "watch_num(主播热度)": "36.4万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1165924_1346.png",
-    "room_title(房间标题)": "这才叫麻将，暴躁杠开集锦！",
-    "room_cate(房间分类)": "欢乐麻将",
-    "anchor_name(主播ID)": "靓旭",
-    "watch_num(主播热度)": "69.6万"
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/5472749_2120.png",
+    "room_title(房间标题)": "【错觉】实力证明一切",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "错觉老中医",
+    "watch_num(主播热度)": "85.8万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/93589_1341.png",
-    "room_title(房间标题)": "异灵术：欢迎来到冷面魔男的直播间",
-    "room_cate(房间分类)": "炉石传说",
-    "anchor_name(主播ID)": "异灵术老师",
-    "watch_num(主播热度)": "67.4万"
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/2267291_2125.png",
+    "room_title(房间标题)": "[shou]找找手感~",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "17shou丷",
+    "watch_num(主播热度)": "85.8万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/88660_1346.png",
-    "room_title(房间标题)": "ob青训选拔开始了~",
-    "room_cate(房间分类)": "DOTA2",
-    "anchor_name(主播ID)": "Zhou陈尧",
-    "watch_num(主播热度)": "66.9万"
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/138243_2119.png",
+    "room_title(房间标题)": "胡凯利：欢乐时光已经开始了！",
+    "room_cate(房间分类)": "英雄联盟",
+    "anchor_name(主播ID)": "洞主丨歌神洞庭湖",
+    "watch_num(主播热度)": "85.5万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/04/7fc37ba69511c1de699e4e33f281b457.png",
-    "room_title(房间标题)": "天青色等烟雨，而我在等你 6360996",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/2082766_2125.png",
+    "room_title(房间标题)": "你会不会突然的出现~",
     "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "是知了啊",
-    "watch_num(主播热度)": "2.5万"
+    "anchor_name(主播ID)": "幸存啊",
+    "watch_num(主播热度)": "53.9万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/22/044e73d7b23a4c60a03497c1e44fcbcf.jpg",
-    "room_title(房间标题)": "不被喜欢的话就会消失哦",
-    "room_cate(房间分类)": "二次元",
-    "anchor_name(主播ID)": "可可只",
-    "watch_num(主播热度)": "5.1万"
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/3928_2119.png",
+    "room_title(房间标题)": "【小鸽陪看】动作 枪战 华语 经典",
+    "room_cate(房间分类)": "一起看",
+    "anchor_name(主播ID)": "萌小鬼",
+    "watch_num(主播热度)": "12万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/441868_1341.png",
-    "room_title(房间标题)": "6枪6刺男枪12 1 2点抽3000",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "小马Oo",
-    "watch_num(主播热度)": "66.8万"
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/70231_2119.png",
+    "room_title(房间标题)": "妹子在哪里带我吃个鸡~",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "恶魔qq",
+    "watch_num(主播热度)": "80.9万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/525207_1341.png",
-    "room_title(房间标题)": "直播：黄金公开赛X战队联赛-成都站",
-    "room_cate(房间分类)": "炉石传说",
-    "anchor_name(主播ID)": "暴雪游戏频道",
-    "watch_num(主播热度)": "66万"
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/1106720_2124.png",
+    "room_title(房间标题)": "iPhone 11 Pro Max拆解",
+    "room_cate(房间分类)": "数码科技",
+    "anchor_name(主播ID)": "GeekBar",
+    "watch_num(主播热度)": "79.9万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/705690_1341.png",
-    "room_title(房间标题)": "LDL夏季赛WE.AvsVGP",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "LDL官方直播间",
-    "watch_num(主播热度)": "64.7万"
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/84452_2119.png",
+    "room_title(房间标题)": "阿飞) 昨天C罗 今天开个啥？",
+    "room_cate(房间分类)": "足球游戏",
+    "anchor_name(主播ID)": "主播阿飞",
+    "watch_num(主播热度)": "79.6万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1282057_1900591_45efb_2_1345.jpg",
-    "room_title(房间标题)": "我是可爱的宝贝 你是可爱吗？",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/2141766_4260617_51f82_2_2121.jpg",
+    "room_title(房间标题)": "做最开心的自己~很高兴认识你",
     "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "清欢mmm",
-    "watch_num(主播热度)": "6.7万"
+    "anchor_name(主播ID)": "珂珂宝丶",
+    "watch_num(主播热度)": "9.9万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/447507_1341.png",
-    "room_title(房间标题)": "大河怒上大货",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/3374504_5649159_0e4e1_2_2116.jpg",
+    "room_title(房间标题)": "今日份文静女神↑ 超级粉丝牌冲鸭！",
     "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "洪湖小肖",
-    "watch_num(主播热度)": "222.6万"
+    "anchor_name(主播ID)": "三岁伊丶",
+    "watch_num(主播热度)": "55.5万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/208114_1346.png",
-    "room_title(房间标题)": "预祝海澜之家暴雪游戏合作款大卖！",
-    "room_cate(房间分类)": "炉石传说",
-    "anchor_name(主播ID)": "恩基爱萌萌哒的狗贼",
-    "watch_num(主播热度)": "63.7万"
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/452628_2119.png",
+    "room_title(房间标题)": "聊聊iPhone 11和华为Mate30",
+    "room_cate(房间分类)": "数码科技",
+    "anchor_name(主播ID)": "科技美学中国",
+    "watch_num(主播热度)": "77.5万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/16101_1346.png",
-    "room_title(房间标题)": "微笑： 峡谷王者局",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "微笑",
-    "watch_num(主播热度)": "63.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5551065_1347.png",
-    "room_title(房间标题)": "一想到明天周六我就肝颤！",
-    "room_cate(房间分类)": "DNF",
-    "anchor_name(主播ID)": "我是大坤坤啊",
-    "watch_num(主播热度)": "62.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/05/9b76e2328057129abb2ed014c2639478.jpg",
-    "room_title(房间标题)": "新人在等一个你。",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "Black爆米花",
-    "watch_num(主播热度)": "2.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/430489_1346.png",
-    "room_title(房间标题)": "徒步返程：武汉-荷莲港水库",
-    "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "长沙乡村敢死队",
-    "watch_num(主播热度)": "129.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/687423_1341.png",
-    "room_title(房间标题)": "小炮：先CSGO冲一下分",
-    "room_cate(房间分类)": "APEX英雄",
-    "anchor_name(主播ID)": "yjjimpaopao",
-    "watch_num(主播热度)": "60.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1143121_1346.png",
-    "room_title(房间标题)": "不可一世孙尚香  未尝一败",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/21/afa0f03edb92a7136326c3ba6ecc1d7e.jpg",
+    "room_title(房间标题)": "Gemini：ES花海 VS GK鹏鹏",
     "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "不可一世杀手",
-    "watch_num(主播热度)": "60.6万"
+    "anchor_name(主播ID)": "MrGemini",
+    "watch_num(主播热度)": "77.5万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1144379_1346.png",
-    "room_title(房间标题)": "单排上荣耀叭~",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/19223_2124.png",
+    "room_title(房间标题)": "QQQ：稳定理财，今天不猛了",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "气人主播QQQ",
+    "watch_num(主播热度)": "75万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/7311638_2116.png",
+    "room_title(房间标题)": "你要开心呀~",
+    "room_cate(房间分类)": "舞蹈",
+    "anchor_name(主播ID)": "Lovely璐璐酱",
+    "watch_num(主播热度)": "44.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/687422_2119.png",
+    "room_title(房间标题)": "三文鱼，开工了",
+    "room_cate(房间分类)": "美食",
+    "anchor_name(主播ID)": "大连哥俩刺身",
+    "watch_num(主播热度)": "34万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/5526219_2120.png",
+    "room_title(房间标题)": "SOLO赛输了弹幕惩罚！",
+    "room_cate(房间分类)": "英雄联盟",
+    "anchor_name(主播ID)": "南波儿大魔王丶",
+    "watch_num(主播热度)": "73万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/1144379_1653.png",
+    "room_title(房间标题)": "无敌婉儿带粉啦~",
     "room_cate(房间分类)": "王者荣耀",
     "anchor_name(主播ID)": "雷婷丶",
-    "watch_num(主播热度)": "56.6万"
+    "watch_num(主播热度)": "71.6万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/17/5722131_20190817193032_small.jpg",
-    "room_title(房间标题)": "努力奋斗的咸鱼米",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/06/473f41bbf4f5b02e472497abd0f486af.jpg",
+    "room_title(房间标题)": "最强水友赛决赛",
+    "room_cate(房间分类)": "DNF",
+    "anchor_name(主播ID)": "李永",
+    "watch_num(主播热度)": "71.5万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/09/19/5822819_20190919072312_small.jpg",
+    "room_title(房间标题)": "蠢萌主播 在线傻笑",
     "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "胡小米哟",
-    "watch_num(主播热度)": "21.2万"
+    "anchor_name(主播ID)": "小汉娜Hannah",
+    "watch_num(主播热度)": "10万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/2027_1346.png",
-    "room_title(房间标题)": "浙江敞篷车约学生妹妹",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/52004_2124.png",
+    "room_title(房间标题)": "菠萝 ✦ 今天聊聊天唱唱歌",
+    "room_cate(房间分类)": "二次元",
+    "anchor_name(主播ID)": "菠萝赛东",
+    "watch_num(主播热度)": "58.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/93589_2124.png",
+    "room_title(房间标题)": "异灵术:老年人活动时间",
+    "room_cate(房间分类)": "炉石传说",
+    "anchor_name(主播ID)": "异灵术老师",
+    "watch_num(主播热度)": "71.5万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/441868_2124.png",
+    "room_title(房间标题)": "职业打刺客！",
+    "room_cate(房间分类)": "英雄联盟",
+    "anchor_name(主播ID)": "小马Oo",
+    "watch_num(主播热度)": "70.1万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/532152_2119.png",
+    "room_title(房间标题)": "定位赛搞个10-0",
+    "room_cate(房间分类)": "DOTA2",
+    "anchor_name(主播ID)": "YaphetS丶666",
+    "watch_num(主播热度)": "69万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/05/5bdb4c784b2967b962ffea3932189152.jpg",
+    "room_title(房间标题)": "重庆最后的单纯",
+    "room_cate(房间分类)": "舞蹈",
+    "anchor_name(主播ID)": "Wenwen儿",
+    "watch_num(主播热度)": "39.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/31/5103313_20190731154348.jpg",
+    "room_title(房间标题)": "录/御姐也想被偏爱",
+    "room_cate(房间分类)": "电台",
+    "anchor_name(主播ID)": "NJ南浔酱",
+    "watch_num(主播热度)": "17万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/4494106_2125.png",
+    "room_title(房间标题)": "最精彩的游戏直播~ 4494106",
+    "room_cate(房间分类)": "和平精英",
+    "anchor_name(主播ID)": "Forever浪子断",
+    "watch_num(主播热度)": "68.4万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/16/9c4bc6eb3ba10b45c9f7bcd5f8c60000.jpg",
+    "room_title(房间标题)": "玩到8点半看NIP和VP的比赛",
+    "room_cate(房间分类)": "CS:GO",
+    "anchor_name(主播ID)": "玩机器丶Machine",
+    "watch_num(主播热度)": "67.2万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/4897321_2125.png",
+    "room_title(房间标题)": "真香！小浣熊满血复活！",
+    "room_cate(房间分类)": "DNF",
+    "anchor_name(主播ID)": "一阵雨不是一阵奶",
+    "watch_num(主播热度)": "66.2万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/3285381_4095665_40abd_2_2115.jpg",
+    "room_title(房间标题)": "我来啦~晚上好呀",
+    "room_cate(房间分类)": "颜值",
+    "anchor_name(主播ID)": "七七你是最胖的",
+    "watch_num(主播热度)": "4.7万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/7029806_2121.png",
+    "room_title(房间标题)": "❤猪酱❤超级话痨主播了解一下",
+    "room_cate(房间分类)": "一起看",
+    "anchor_name(主播ID)": "小猪酱啊",
+    "watch_num(主播热度)": "14.2万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/21/ba5d5347968c704dbe1fddfe5ff8edad.jpg",
+    "room_title(房间标题)": "专注的中单练习生",
+    "room_cate(房间分类)": "DOTA2",
+    "anchor_name(主播ID)": "ctyzzz",
+    "watch_num(主播热度)": "65.7万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/5697402_2115.png",
+    "room_title(房间标题)": "OMG战队语音第一视角【免费体验】",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "OMG小狮子lionkk",
+    "watch_num(主播热度)": "64.9万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/4441739_2125.png",
+    "room_title(房间标题)": "9点上个小时榜别撞车",
+    "room_cate(房间分类)": "王者荣耀",
+    "anchor_name(主播ID)": "Jue美娘",
+    "watch_num(主播热度)": "63.2万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/23/8c9072f8ec4ca61343c762cf3d566aad.jpg",
+    "room_title(房间标题)": "今天是有尾巴的小猫咪",
+    "room_cate(房间分类)": "舞蹈",
+    "anchor_name(主播ID)": "子然学姐",
+    "watch_num(主播热度)": "37.6万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/105025_2124.png",
+    "room_title(房间标题)": "Saturday- 2K20生涯模式",
     "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "航海朱2027",
-    "watch_num(主播热度)": "7.9万"
+    "anchor_name(主播ID)": "赛文柒Seven",
+    "watch_num(主播热度)": "53.1万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4372875_1342.png",
-    "room_title(房间标题)": "【渣男现场】和猎游小姐姐玩游戏~",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "林熙Lxxi",
-    "watch_num(主播热度)": "56.1万"
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/525207_2124.png",
+    "room_title(房间标题)": "直播：最佳队友4V4对抗赛-B组",
+    "room_cate(房间分类)": "守望先锋",
+    "anchor_name(主播ID)": "暴雪游戏频道",
+    "watch_num(主播热度)": "63万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/718642_1346.png",
-    "room_title(房间标题)": "赛季初钢枪战神车队！！！干",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/20/771ad5b961bdf46172cdbb2c795afaee.jpg",
+    "room_title(房间标题)": "新人主播首秀好礼送不停",
     "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "1121丶六神弟弟",
-    "watch_num(主播热度)": "56万"
+    "anchor_name(主播ID)": "脸叔灬",
+    "watch_num(主播热度)": "62.3万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/88660_2119.png",
+    "room_title(房间标题)": "来了，上点分~",
+    "room_cate(房间分类)": "DOTA2",
+    "anchor_name(主播ID)": "Zhou陈尧",
+    "watch_num(主播热度)": "61.9万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/08/7222439_20190808223002_small.jpg",
+    "room_title(房间标题)": "梦里有我 7222439",
+    "room_cate(房间分类)": "颜值",
+    "anchor_name(主播ID)": "八月安娜",
+    "watch_num(主播热度)": "9.3万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/673531_2119.png",
+    "room_title(房间标题)": "松江百元一日挑战赛",
+    "room_cate(房间分类)": "美食",
+    "anchor_name(主播ID)": "梦蝶小公举丶",
+    "watch_num(主播热度)": "28.6万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/21267_2124.png",
+    "room_title(房间标题)": "王师傅的直播间！",
+    "room_cate(房间分类)": "炉石传说",
+    "anchor_name(主播ID)": "王师傅精益求精",
+    "watch_num(主播热度)": "61.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/3484_2119.png",
+    "room_title(房间标题)": "WESG集训！上海赛区GO起来",
+    "room_cate(房间分类)": "星际争霸",
+    "anchor_name(主播ID)": "scboy",
+    "watch_num(主播热度)": "61.7万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/18/652e51765bfd72717dfad884c0d6bbe4.jpg",
+    "room_title(房间标题)": "认真上波分，运营教学",
+    "room_cate(房间分类)": "lol云顶之弈",
+    "anchor_name(主播ID)": "梨落秋溪",
+    "watch_num(主播热度)": "61.5万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/6798238_2121.png",
+    "room_title(房间标题)": "跳舞主播开业了",
+    "room_cate(房间分类)": "舞蹈",
+    "anchor_name(主播ID)": "舞法天女小慕林",
+    "watch_num(主播热度)": "28.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/607575_2119.png",
+    "room_title(房间标题)": "擦黑板了 全体起立！",
+    "room_cate(房间分类)": "二次元",
+    "anchor_name(主播ID)": "混血超模武田华恋",
+    "watch_num(主播热度)": "29.2万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/5245124_2125.png",
+    "room_title(房间标题)": "“单排王者局！！”",
+    "room_cate(房间分类)": "王者荣耀",
+    "anchor_name(主播ID)": "全能王阿舜",
+    "watch_num(主播热度)": "61.5万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/486808_2124.png",
+    "room_title(房间标题)": "看看这增幅11，香的一皮~",
+    "room_cate(房间分类)": "DNF",
+    "anchor_name(主播ID)": "一笑zy",
+    "watch_num(主播热度)": "60.3万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/16/c4334ca2ad2d892aa802861b5219dace.jpg",
+    "room_title(房间标题)": "遮天蔽日横扫全场",
+    "room_cate(房间分类)": "跑跑手游",
+    "anchor_name(主播ID)": "RJ天王星",
+    "watch_num(主播热度)": "59.3万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/09/20/a6dac8d20c9f75f8652cf38f260c52ea_big.png",
+    "room_title(房间标题)": "陪陪沧沧吧！ 6826077",
+    "room_cate(房间分类)": "颜值",
+    "anchor_name(主播ID)": "是沧沧",
+    "watch_num(主播热度)": "13.7万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/23/6826796_20190823032123.jpg",
+    "room_title(房间标题)": "【交友】做你的宝贝好吗",
+    "room_cate(房间分类)": "电台",
+    "anchor_name(主播ID)": "黑马一白金汉宫",
+    "watch_num(主播热度)": "16.4万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/69190_2119.png",
+    "room_title(房间标题)": "【令北】超级史诗级老实人在线做好事",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "正经人令北",
+    "watch_num(主播热度)": "59.2万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/12313_2124.png",
+    "room_title(房间标题)": "叶音符:刷人型打野 K头教父",
+    "room_cate(房间分类)": "英雄联盟",
+    "anchor_name(主播ID)": "叶音符",
+    "watch_num(主播热度)": "58.7万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/2207607_2120.png",
+    "room_title(房间标题)": "限时福利！免流量还送100元话费..",
+    "room_cate(房间分类)": "王者荣耀",
+    "anchor_name(主播ID)": "骚易丶",
+    "watch_num(主播热度)": "58.5万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/6448781_2121.png",
+    "room_title(房间标题)": "跳舞的小姐姐求帮助~",
+    "room_cate(房间分类)": "舞蹈",
+    "anchor_name(主播ID)": "一只三鹿奶粉",
+    "watch_num(主播热度)": "27.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/7527958_2122.png",
+    "room_title(房间标题)": "萌新主播陪你看电影 7527958",
+    "room_cate(房间分类)": "一起看",
+    "anchor_name(主播ID)": "小绿崽崽",
+    "watch_num(主播热度)": "2.7万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/435504_2124.png",
+    "room_title(房间标题)": "文明直播不气人第一天！",
+    "room_cate(房间分类)": "穿越火线",
+    "anchor_name(主播ID)": "鲜肉赵山河",
+    "watch_num(主播热度)": "56.5万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/696178_2124.png",
+    "room_title(房间标题)": "直播：黄金战队联赛秋季赛-第四周",
+    "room_cate(房间分类)": "炉石传说",
+    "anchor_name(主播ID)": "暴雪游戏频道2",
+    "watch_num(主播热度)": "56.2万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/2456621_2120.png",
+    "room_title(房间标题)": "排队依旧是硬伤！！！",
+    "room_cate(房间分类)": "魔兽怀旧服",
+    "anchor_name(主播ID)": "黑欢喜",
+    "watch_num(主播热度)": "54.7万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/01/ccc898aef91599a2ab022234be529fb5_big.jpg",
+    "room_title(房间标题)": "1.5倍亲密度上限~~~",
+    "room_cate(房间分类)": "颜值",
+    "anchor_name(主播ID)": "程心曲",
+    "watch_num(主播热度)": "227.1万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/517927_2124.png",
+    "room_title(房间标题)": "王总 比克大哥，周帮第一 下周是谁！",
+    "room_cate(房间分类)": "户外",
+    "anchor_name(主播ID)": "户外王总",
+    "watch_num(主播热度)": "26.9万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/5716430_2115.png",
+    "room_title(房间标题)": "叶知秋：去拍照咯 播会儿户外",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "叶知秋Vanessa",
+    "watch_num(主播热度)": "54.4万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/2311698_2120.png",
+    "room_title(房间标题)": "【斯祥】周末1.2倍亲密！需要你的荧光棒",
+    "room_cate(房间分类)": "绝地求生",
+    "anchor_name(主播ID)": "斯祥丶",
+    "watch_num(主播热度)": "54.3万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/19/e08558144901d169d18e7a99107189c6.jpg",
+    "room_title(房间标题)": "重播丨22日 Nova vs SLT",
+    "room_cate(房间分类)": "王者荣耀",
+    "anchor_name(主播ID)": "王者荣耀韩国官方赛事",
+    "watch_num(主播热度)": "54万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/7163897_2121.png",
+    "room_title(房间标题)": "疯狂跳舞机！7163897",
+    "room_cate(房间分类)": "舞蹈",
+    "anchor_name(主播ID)": "由美妹妹Yumi",
+    "watch_num(主播热度)": "22.8万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/599351_2124.png",
+    "room_title(房间标题)": "今天1.2倍亲密度~o(*￣▽￣*)ブ~",
+    "room_cate(房间分类)": "美食",
+    "anchor_name(主播ID)": "嘿一只小河马",
+    "watch_num(主播热度)": "28.3万"
+}
+{
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/06/21b4ab9ac1c0d624095b2071a4a7fa5e.jpg",
+    "room_title(房间标题)": "顶级44是否懦夫",
+    "room_cate(房间分类)": "DNF",
+    "anchor_name(主播ID)": "DNF白手温柔",
+    "watch_num(主播热度)": "54万"
 }
 {
     "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/02/160b729213ff4f0f528ed7d0ebb0c989.png",
     "room_title(房间标题)": "皇室战争职业联赛秋季赛常规赛",
     "room_cate(房间分类)": "皇室战争",
     "anchor_name(主播ID)": "Supercell游戏频道",
-    "watch_num(主播热度)": "52.4万"
+    "watch_num(主播热度)": "53.1万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5144740_1347.png",
-    "room_title(房间标题)": "百因必有果，你的报应就是我5144740",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "十二Fairy",
-    "watch_num(主播热度)": "1.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/599351_1346.png",
-    "room_title(房间标题)": "中午煮面！！！",
-    "room_cate(房间分类)": "美食",
-    "anchor_name(主播ID)": "嘿一只小河马",
-    "watch_num(主播热度)": "33.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/115280_1346.png",
-    "room_title(房间标题)": "少囧七点整",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "少囧丶",
-    "watch_num(主播热度)": "50.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/699689_1341.png",
-    "room_title(房间标题)": "狗狐狸：今天带七溪~",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "狐狸不太Sao",
-    "watch_num(主播热度)": "50.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/70231_1346.png",
-    "room_title(房间标题)": "找妹子一起吃鸡~~",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "恶魔qq",
-    "watch_num(主播热度)": "49.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/01/ccc898aef91599a2ab022234be529fb5_big.jpg",
-    "room_title(房间标题)": "网恋吗，刷超火的那种",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "程心曲",
-    "watch_num(主播热度)": "95.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6882291_1348.png",
-    "room_title(房间标题)": "新主播~多多支持",
-    "room_cate(房间分类)": "二次元",
-    "anchor_name(主播ID)": "小橘莓",
-    "watch_num(主播热度)": "8960"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/3567314_1347.png",
-    "room_title(房间标题)": "峡谷之巅1100冲 1200",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "王纪超666",
-    "watch_num(主播热度)": "48.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/2456621_1342.png",
-    "room_title(房间标题)": "今天80.谁也不好使。",
-    "room_cate(房间分类)": "魔兽怀旧服",
-    "anchor_name(主播ID)": "黑欢喜",
-    "watch_num(主播热度)": "48.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/71819_1346.png",
-    "room_title(房间标题)": "王者铭文金币5连抽！",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "Q老钱",
-    "watch_num(主播热度)": "46.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6905246_1348.png",
-    "room_title(房间标题)": "做我的心上人吧",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "弯弯Libra",
-    "watch_num(主播热度)": "5.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5230270_756836_53949_2_1341.jpg",
-    "room_title(房间标题)": "但愿人长久~",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "早安酱ii",
-    "watch_num(主播热度)": "90万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/301049_1341.png",
-    "room_title(房间标题)": "看看先满级！保不齐黑石深渊！!",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/301049_2119.png",
+    "room_title(房间标题)": "二团黑龙公主！",
     "room_cate(房间分类)": "魔兽怀旧服",
     "anchor_name(主播ID)": "棒老三",
-    "watch_num(主播热度)": "46.4万"
+    "watch_num(主播热度)": "49.8万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4556661_1347.png",
-    "room_title(房间标题)": "【憨猫甜蜜带妹】M4新版本教学！",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "QL羽七",
-    "watch_num(主播热度)": "44.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/52876_1346.png",
-    "room_title(房间标题)": "单排会 1点OB青训",
-    "room_cate(房间分类)": "DOTA2",
-    "anchor_name(主播ID)": "龚建ZSMJ",
-    "watch_num(主播热度)": "44.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/848337_1346.png",
-    "room_title(房间标题)": "别墅租好了这几天搬家",
-    "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "俄罗斯教父",
-    "watch_num(主播热度)": "79.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/218859_1341.png",
-    "room_title(房间标题)": "【林正英】僵尸 女鬼 弹幕 护体",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "UnaDirezione",
-    "watch_num(主播热度)": "24.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/3014399_1342.png",
-    "room_title(房间标题)": "单排上荣耀，英雄你来挑。",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "甄知棒",
-    "watch_num(主播热度)": "43.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5384600_1342.png",
-    "room_title(房间标题)": "【骚某某】甜蜜双排啦~",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "我是骚某某",
-    "watch_num(主播热度)": "43.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/3652542_1342.png",
-    "room_title(房间标题)": "【无限火力】强势归来场均50杀！",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "神秘嘉宾橙子",
-    "watch_num(主播热度)": "43.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/04/ad9558e10c79cf18f0aac37e4f2ca04d.jpg",
-    "room_title(房间标题)": "灵魂愛一凡6771495",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "愛一凡",
-    "watch_num(主播热度)": "1.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/517927_1346.png",
-    "room_title(房间标题)": "王总 比克大哥，周帮第一 下周是谁！",
-    "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "户外王总",
-    "watch_num(主播热度)": "29.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/296059_1346.png",
-    "room_title(房间标题)": "come艾瑞芭蕾",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "4AM王欣",
-    "watch_num(主播热度)": "42.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1300804_1341.png",
-    "room_title(房间标题)": "美服第一，国服王者小号教学！",
-    "room_cate(房间分类)": "lol云顶之弈",
-    "anchor_name(主播ID)": "卷子丶",
-    "watch_num(主播热度)": "42.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/276685_1346.png",
-    "room_title(房间标题)": "[PEL欧洲职业联赛]第三赛季",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "黄金大奖赛",
-    "watch_num(主播热度)": "42.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/06/07/6036539_20190607194824_small.jpg",
-    "room_title(房间标题)": "希望不是被选择 而是被热爱",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/5863027_7389776_050fb_2_2109.jpg",
+    "room_title(房间标题)": "最近活扭着的大哥请进",
     "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "小苏打Da",
-    "watch_num(主播热度)": "2万"
+    "anchor_name(主播ID)": "Skr丶马老二",
+    "watch_num(主播热度)": "4万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/14/3853457_20190814094651_small.jpg",
-    "room_title(房间标题)": "太难了啊！！！",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "歌神韦爵爷",
-    "watch_num(主播热度)": "56.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/71091_1346.png",
-    "room_title(房间标题)": "凯南人柱力！登场",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "狼牙山凯哥",
-    "watch_num(主播热度)": "41.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/101185_1346.png",
-    "room_title(房间标题)": "马东没：有种来压不能",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "普朗东丷",
-    "watch_num(主播热度)": "40.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/3125893_1347.png",
-    "room_title(房间标题)": "峡谷敌见怕！很有面子！",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "少年不太冷Rex",
-    "watch_num(主播热度)": "39.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/09/01/bbe6a2a52138b7837d4dd451ed943dc6.jpg",
-    "room_title(房间标题)": "有人疼我吗？",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "菟乐芙",
-    "watch_num(主播热度)": "1.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190901/3825_0022.png",
-    "room_title(房间标题)": "甜甜歌声和恐怖游戏伴你入眠",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/777777_2124.png",
+    "room_title(房间标题)": "✌小七七✌ 顽强的盒子精",
     "room_cate(房间分类)": "二次元",
-    "anchor_name(主播ID)": "3000BIUBIUBIU",
-    "watch_num(主播热度)": "1117"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/04/24a898700d5115c824dad886fb344c40.jpg",
-    "room_title(房间标题)": "新赛季冲鸭冲鸭",
-    "room_cate(房间分类)": "跑跑手游",
-    "anchor_name(主播ID)": "DY主演",
-    "watch_num(主播热度)": "39.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6550676_1348.png",
-    "room_title(房间标题)": "冲战神 见人就莽 开锤!",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "A扬丷",
-    "watch_num(主播热度)": "38.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/249813_1341.png",
-    "room_title(房间标题)": "学我套路谁都能上大师~11-4点抽奖",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "爷大干",
-    "watch_num(主播热度)": "37.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/09/03/7518967_20190903092116_small.jpg",
-    "room_title(房间标题)": "新人求守护 7518967",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "草莓味的十三酱",
-    "watch_num(主播热度)": "1.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/14/4b1a6c423d68d3216a7da8e7f7dc1ce8_big.png",
-    "room_title(房间标题)": "点进来你就是最帅的~",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "就是尖尖兒",
-    "watch_num(主播热度)": "50.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5189167_1342.png",
-    "room_title(房间标题)": "骆歆：派大星来咯",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "骆歆冲冲冲",
-    "watch_num(主播热度)": "36.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4661529_1347.png",
-    "room_title(房间标题)": "随机英雄 王者局单排上星~",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "李天赐ERTC",
-    "watch_num(主播热度)": "36.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5390681_1347.png",
-    "room_title(房间标题)": "冲星，冲荣耀，不浪不送~",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "TK丶宋庆龙",
-    "watch_num(主播热度)": "35.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/17/5985827_20190817090645_small.jpg",
-    "room_title(房间标题)": "要有多幸运才能遇到你们",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "梅夕不是梅西啊",
-    "watch_num(主播热度)": "47.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/3928_1341.png",
-    "room_title(房间标题)": "【小鸽陪看】动作 枪战 华语 经典",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "萌小鬼",
-    "watch_num(主播热度)": "9.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/15/db3ac03a258e020338ff09e76aea1bb0.png",
-    "room_title(房间标题)": "石原：秽土三代！今天10点到16点",
-    "room_cate(房间分类)": "火影忍者",
-    "anchor_name(主播ID)": "爱吃鱼的石原",
-    "watch_num(主播热度)": "35.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/999_1341.png",
-    "room_title(房间标题)": "DOT-AllStar重播",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "移动电竞热点",
-    "watch_num(主播热度)": "34.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/339610_1341.png",
-    "room_title(房间标题)": "怀旧服布鲁七煌的法斯他LEI了",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "单车老师不迟到",
-    "watch_num(主播热度)": "34万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1409682_1346.png",
-    "room_title(房间标题)": "【姽婳】第96天/挑战365天换装",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "一条小姽婳",
-    "watch_num(主播热度)": "46.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/669128_1346.png",
-    "room_title(房间标题)": "徒步阿里大北线   革吉县",
-    "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "200多斤的胖子",
-    "watch_num(主播热度)": "8.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/221869_1346.png",
-    "room_title(房间标题)": "梦幻西游手游，流浪中~",
-    "room_cate(房间分类)": "梦幻西游手游",
-    "anchor_name(主播ID)": "小儿郎丶丶",
-    "watch_num(主播热度)": "33.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1476712_1346.png",
-    "room_title(房间标题)": "1500点王者，欢迎进来指点",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "中年人拳师七号",
-    "watch_num(主播热度)": "33.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/07/12/2a4a1db6a0cade0af0f1f5c2eff413b9.jpg",
-    "room_title(房间标题)": "头号狙鸡队",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "pubg活动",
-    "watch_num(主播热度)": "32.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/27/6954662_20190827180620_small.jpg",
-    "room_title(房间标题)": "成都车展第二天",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "蜜桃酱香",
-    "watch_num(主播热度)": "40.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1059345_1346.png",
-    "room_title(房间标题)": "可爱的牛牛马上下播了五点见",
-    "room_cate(房间分类)": "美食",
-    "anchor_name(主播ID)": "主播大黑牛",
-    "watch_num(主播热度)": "9.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/02/f0c5b2e4ce7be08d371843499201bbdb.jpg",
-    "room_title(房间标题)": "第二届自走棋手游大师赛",
-    "room_cate(房间分类)": "多多自走棋",
-    "anchor_name(主播ID)": "多多自走棋",
-    "watch_num(主播热度)": "32.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5388537_1347.png",
-    "room_title(房间标题)": "【重播】火线演播室",
-    "room_cate(房间分类)": "穿越火线",
-    "anchor_name(主播ID)": "穿越火线赛事",
-    "watch_num(主播热度)": "32.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/675429_1346.png",
-    "room_title(房间标题)": "OMGBT：晚上TPP，要裂开了",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "OMGsilentBT",
-    "watch_num(主播热度)": "32.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/29/7280267_20190829201135.jpg",
-    "room_title(房间标题)": "【交友】SR一菲尼莫属",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "SR一菲尼莫属",
-    "watch_num(主播热度)": "36.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190831/15553_2021.png",
-    "room_title(房间标题)": "Party of  One",
-    "room_cate(房间分类)": "二次元",
-    "anchor_name(主播ID)": "NightmareRabbit",
-    "watch_num(主播热度)": "72"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/160504_1346.png",
-    "room_title(房间标题)": "抽奖了！激情国战！",
-    "room_cate(房间分类)": "三国杀",
-    "anchor_name(主播ID)": "丶砍你焉用菜刀",
-    "watch_num(主播热度)": "32.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/11/179e756c39746130d1b6598a08123243.jpg",
-    "room_title(房间标题)": "2019BPL联赛精彩回顾",
-    "room_cate(房间分类)": "球球大作战",
-    "anchor_name(主播ID)": "球球大作战官方直播间",
-    "watch_num(主播热度)": "31.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/507882_1341.png",
-    "room_title(房间标题)": "1点OB青训选拔~~",
-    "room_cate(房间分类)": "DOTA2",
-    "anchor_name(主播ID)": "820邹倚天",
-    "watch_num(主播热度)": "31.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5525438_5294054_197a3_2_1349.jpg",
-    "room_title(房间标题)": "封面和本人一样好看",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "舞者Dance灵儿",
-    "watch_num(主播热度)": "34.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/09/05/6760081_20190905103850.jpg",
-    "room_title(房间标题)": "啦啦啦啦啦了 6760081",
-    "room_cate(房间分类)": "电台",
-    "anchor_name(主播ID)": "小元好凶吖",
-    "watch_num(主播热度)": "9257"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/507882_1341.png",
-    "room_title(房间标题)": "1点OB青训选拔~~",
-    "room_cate(房间分类)": "DOTA2",
-    "anchor_name(主播ID)": "820邹倚天",
-    "watch_num(主播热度)": "31.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/128489_1346.png",
-    "room_title(房间标题)": "其：这个月的传说很矜持哦 。",
-    "room_cate(房间分类)": "炉石传说",
-    "anchor_name(主播ID)": "我为文燕上传说",
-    "watch_num(主播热度)": "31.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/65962_1351.png",
-    "room_title(房间标题)": "熊大：1082分了 冲王者",
-    "room_cate(房间分类)": "lol云顶之弈",
-    "anchor_name(主播ID)": "熊jolababy",
-    "watch_num(主播热度)": "31.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/594613_1346.png",
-    "room_title(房间标题)": "姑：今日打卡处 黄果树瀑布",
-    "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "百变姑姑肖淑洁",
-    "watch_num(主播热度)": "31.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/19/6600770_20190719095511_small.jpg",
-    "room_title(房间标题)": "早啊，陌生人~",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "soso文小姐",
-    "watch_num(主播热度)": "31万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1767539_1352.png",
-    "room_title(房间标题)": "【高端局】一个操作身法如画的男人！",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "潇男莫虐",
-    "watch_num(主播热度)": "31万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/2132902_1347.png",
-    "room_title(房间标题)": "陈翔六点半，每周更新为你加速！",
-    "room_cate(房间分类)": "鱼教",
-    "anchor_name(主播ID)": "陈翔六点半",
-    "watch_num(主播热度)": "30.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/2353159_1352.png",
-    "room_title(房间标题)": "皇妹：     呵",
-    "room_cate(房间分类)": "lol云顶之弈",
-    "anchor_name(主播ID)": "单手解bras",
-    "watch_num(主播热度)": "30.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/06/7031146_20190806174544.jpg",
-    "room_title(房间标题)": "【交友】”花哥”冠名！",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "王者一最美遇见",
-    "watch_num(主播热度)": "29.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/09/03/6548062_20190903114029.jpg",
-    "room_title(房间标题)": "【交友】私人订制约会现场",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "SR一私人订制",
-    "watch_num(主播热度)": "27.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5029681_1352.png",
-    "room_title(房间标题)": "久违的水友赛！裁判依然无敌！",
-    "room_cate(房间分类)": "DNF",
-    "anchor_name(主播ID)": "漫游kiss欢",
-    "watch_num(主播热度)": "29.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4487219_1352.png",
-    "room_title(房间标题)": "象棋飞刀王，布局陷阱专家！",
-    "room_cate(房间分类)": "中国象棋",
-    "anchor_name(主播ID)": "楚汉讲棋",
-    "watch_num(主播热度)": "29.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5324388_1352.png",
-    "room_title(房间标题)": "明天增幅大狂欢，欢迎来碰瓷！",
-    "room_cate(房间分类)": "DNF",
-    "anchor_name(主播ID)": "DNF枪魂冰子",
-    "watch_num(主播热度)": "39万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/71590_1346.png",
-    "room_title(房间标题)": "好嗨哟~~潜水摸鱼，美食，叉鱼",
-    "room_cate(房间分类)": "乡野",
-    "anchor_name(主播ID)": "你的网友呆萌",
-    "watch_num(主播热度)": "25.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/02/6969420_20190802212219.jpg",
-    "room_title(房间标题)": "【交友】距离你1km 由吾灬城冠名",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "君悦一C位出道",
-    "watch_num(主播热度)": "25.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5100470_1352.png",
-    "room_title(房间标题)": "T1直播Khan的直播间",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "T1直播Khan",
-    "watch_num(主播热度)": "29.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/110_1351.png",
-    "room_title(房间标题)": "OB青训队主战场",
-    "room_cate(房间分类)": "DOTA2",
-    "anchor_name(主播ID)": "谢彬DD",
-    "watch_num(主播热度)": "29.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1706221_1351.png",
-    "room_title(房间标题)": "纯子：哎ε=(´ο｀*)))唉",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "星野纯子",
-    "watch_num(主播热度)": "29万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/757122_1346.png",
-    "room_title(房间标题)": "《跟着川味箩卜去冒险》第3期  day2",
-    "room_cate(房间分类)": "乡野",
-    "anchor_name(主播ID)": "川味箩卜",
-    "watch_num(主播热度)": "24.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/25/6438956_20190725200706.jpg",
-    "room_title(房间标题)": "【交友】广岛之恋约会现场",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "嗨玩一广岛之恋",
-    "watch_num(主播热度)": "24.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/888388_1351.png",
-    "room_title(房间标题)": "相声脱口秀！辽北第一狠人打野！！",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "你的大湿胸丶",
-    "watch_num(主播热度)": "28.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1121443_1351.png",
-    "room_title(房间标题)": "吕布单排没输过！全是细节！快来看",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "八神君Lpp",
-    "watch_num(主播热度)": "28.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6755158_1343.png",
-    "room_title(房间标题)": "技术主播？！",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "Super也好君丶",
-    "watch_num(主播热度)": "28.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/27/7255932_20190727103409.jpg",
-    "room_title(房间标题)": "第一颜值女神恋爱交友厅",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "爱约一只如初见",
-    "watch_num(主播热度)": "23.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/122402_1351.png",
-    "room_title(房间标题)": "【周星驰】星爷 喜剧之王 经典 电影",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "进击の神乐",
-    "watch_num(主播热度)": "23.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5070959_1352.png",
-    "room_title(房间标题)": "T1 Mata直播",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "T1直播Mata",
-    "watch_num(主播热度)": "28.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6599622_1343.png",
-    "room_title(房间标题)": "周五早上好b（￣▽￣）d",
-    "room_cate(房间分类)": "DOTA2",
-    "anchor_name(主播ID)": "baby半仙",
-    "watch_num(主播热度)": "28万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/67554_1346.png",
-    "room_title(房间标题)": "13点OB青训队选拔赛！！",
-    "room_cate(房间分类)": "DOTA2",
-    "anchor_name(主播ID)": "ZippO宝哥",
-    "watch_num(主播热度)": "27.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/07/29/a695138dd73fdf2f23ed3a14085bdef8_big.jpg",
-    "room_title(房间标题)": "新主播   本人比封面好看系列",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "Bing酱丶",
-    "watch_num(主播热度)": "23.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/29/6343035_20190729164952.jpg",
-    "room_title(房间标题)": "【交友】由yu哥和4444联手冠名",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "君悦一浮生若梦",
-    "watch_num(主播热度)": "23.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/142488_1346.png",
-    "room_title(房间标题)": "NO:怀旧服牧师，休闲怀旧",
-    "room_cate(房间分类)": "魔兽怀旧服",
-    "anchor_name(主播ID)": "Nostalie",
-    "watch_num(主播热度)": "27.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/666743_1351.png",
-    "room_title(房间标题)": "枪神：赌枪·赌刺·赌魔",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "zzc啊哦额",
-    "watch_num(主播热度)": "27.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4291405_1352.png",
-    "room_title(房间标题)": "单排冲个国服后羿？",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "阳神丶国服后羿梦奇",
-    "watch_num(主播热度)": "27.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/15/6411910_20190715193134_small.jpg",
-    "room_title(房间标题)": "总有些惊奇的际遇 比方说当我遇到你",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "妮妮nnm",
-    "watch_num(主播热度)": "23.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/22/840da85fa479e7fee49fda0a40092d36_big.jpg",
-    "room_title(房间标题)": "棉被女孩了解一下！",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "最美皮皮陌",
-    "watch_num(主播热度)": "23万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6091923_1347.png",
-    "room_title(房间标题)": "T1 Clid 直播",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "T1直播Clid",
-    "watch_num(主播热度)": "27.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/07/26/5f0b4ed5a7fcc745624f9ab99fbe0725.jpg",
-    "room_title(房间标题)": "锤子：MAJOR ENCE小蜜蜂回放",
-    "room_cate(房间分类)": "CS:GO",
-    "anchor_name(主播ID)": "CSGO解说伟伟",
-    "watch_num(主播热度)": "27.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4836017_1352.png",
-    "room_title(房间标题)": "T1直播Teddy的直播间",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "T1直播Teddy",
-    "watch_num(主播热度)": "27万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/252802_1346.png",
-    "room_title(房间标题)": "【贝爷影厅】经典 科幻 动作 灾难 巨兽",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "狂仔酷炫",
-    "watch_num(主播热度)": "23万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/323876_1346.png",
-    "room_title(房间标题)": "【小宇尬舞】科幻 灾难 动作 喜剧 电影",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "Rainsunn",
-    "watch_num(主播热度)": "22.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/610588_1351.png",
-    "room_title(房间标题)": "战争机器 NBA 怪猎 二十四小时联播！",
-    "room_cate(房间分类)": "战争机器系列",
-    "anchor_name(主播ID)": "不死鸟3DM",
-    "watch_num(主播热度)": "26.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/8557_1351.png",
-    "room_title(房间标题)": "小艾:欢乐下棋，下午水友赛。",
-    "room_cate(房间分类)": "lol云顶之弈",
-    "anchor_name(主播ID)": "Notlaughinggirl",
-    "watch_num(主播热度)": "26万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/221741_1351.png",
-    "room_title(房间标题)": "李白 韩信 万场纯细节打野渣男",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "渝万五百狸子3岁",
-    "watch_num(主播热度)": "25.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/31/1312662_20190731143504_small.jpg",
-    "room_title(房间标题)": "别点！！！",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "章鱼姐姐z",
-    "watch_num(主播热度)": "22万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/431460_1351.png",
-    "room_title(房间标题)": "【贝贝】军旅 喜剧 动作 意大利炮",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "baby丶贝贝",
-    "watch_num(主播热度)": "21.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/03/6bf601169dcc10236bb8bf4d42344b3f.jpg",
-    "room_title(房间标题)": "恭喜斗鱼白鲨战队夺冠",
-    "room_cate(房间分类)": "穿越火线",
-    "anchor_name(主播ID)": "穿越火线运营团队",
-    "watch_num(主播热度)": "25.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/2140934_1352.png",
-    "room_title(房间标题)": "震惊!这游戏居然这么好玩!",
-    "room_cate(房间分类)": "命运之手",
-    "anchor_name(主播ID)": "老皮历险记",
-    "watch_num(主播热度)": "25.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190905/322237_1702.png",
-    "room_title(房间标题)": "realme Q  手机新品发布会",
-    "room_cate(房间分类)": "数码科技",
-    "anchor_name(主播ID)": "斗鱼科技",
-    "watch_num(主播热度)": "25万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/263824_1346.png",
-    "room_title(房间标题)": "❤️奶虫❤️恐怖 丧尸 鬼片 灾难 怪兽",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "吃奶滴虫",
-    "watch_num(主播热度)": "21.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/2485173_5250742_0ef32_2_1349.jpg",
-    "room_title(房间标题)": "等一个有缘人～ 2485173",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "伊乐zz",
-    "watch_num(主播热度)": "21.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4535925_1352.png",
-    "room_title(房间标题)": "王者1506冲分！已研究玄学搜卡系统",
-    "room_cate(房间分类)": "lol云顶之弈",
-    "anchor_name(主播ID)": "叫我百变小王子",
-    "watch_num(主播热度)": "24.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1322998_1351.png",
-    "room_title(房间标题)": "海岛钢枪冲战神，斗鱼四猛男",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "Ty脆油条",
-    "watch_num(主播热度)": "24.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6091936_1347.png",
-    "room_title(房间标题)": "T1 Haru直播",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "T1直播Haru",
-    "watch_num(主播热度)": "24.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/09/7cf08ca28fe36ed7227744443bfad071.png",
-    "room_title(房间标题)": "休整中，店铺活动明天开启",
-    "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "中华户外钓鱼",
-    "watch_num(主播热度)": "21.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1860483_1352.png",
-    "room_title(房间标题)": "开荒养殖，孤山寡人生活第454天",
-    "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "青狼户外",
-    "watch_num(主播热度)": "20.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6853071_1348.png",
-    "room_title(房间标题)": "峡谷之巅打野教学!",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "小新AAO",
-    "watch_num(主播热度)": "23.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5160335_1352.png",
-    "room_title(房间标题)": "图图图图图 89466",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "我就是图图阿",
-    "watch_num(主播热度)": "23.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/2293920_1352.png",
-    "room_title(房间标题)": "省棋王金牌教练零到九级速成班",
-    "room_cate(房间分类)": "中国象棋",
-    "anchor_name(主播ID)": "日月轮回888",
-    "watch_num(主播热度)": "23.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6723743_1348.png",
-    "room_title(房间标题)": "♥Kitty♥集可爱与性感于一身",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "FierceKitty",
-    "watch_num(主播热度)": "20.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/29/6282878_20190829145557.jpg",
-    "room_title(房间标题)": "直-今天也想见到你 ~",
-    "room_cate(房间分类)": "电台",
-    "anchor_name(主播ID)": "孙紫涵s",
-    "watch_num(主播热度)": "20.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4333916_1352.png",
-    "room_title(房间标题)": "DGL小闹腾，战神钢枪局",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "Dy小闹腾",
-    "watch_num(主播热度)": "23.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/26/142d4f35b2f6140bd707f86793a238da.jpg",
-    "room_title(房间标题)": "何必呢？一直纠结",
-    "room_cate(房间分类)": "穿越火线",
-    "anchor_name(主播ID)": "KDS昆大手",
-    "watch_num(主播热度)": "23.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/07/30/2e1727581cd0e29f10cf824fd0b097b7.png",
-    "room_title(房间标题)": "今天我们打的是高端局！",
-    "room_cate(房间分类)": "剑网3",
-    "anchor_name(主播ID)": "As童话话话",
-    "watch_num(主播热度)": "22.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/25/6358908_20190725120055.jpg",
-    "room_title(房间标题)": "【交友】本厅由槿尘/骑士/老攻豪气冠名❤",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "王者一恋爱达人",
-    "watch_num(主播热度)": "19.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/52787_1351.png",
-    "room_title(房间标题)": "【花卷陪看】豆瓣高分电影",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "春卷大师",
-    "watch_num(主播热度)": "19.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5040227_1352.png",
-    "room_title(房间标题)": "亚洲杯重播",
-    "room_cate(房间分类)": "QQ飞车",
-    "anchor_name(主播ID)": "QQ飞车手游官方直播间",
-    "watch_num(主播热度)": "22.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4441739_1352.png",
-    "room_title(房间标题)": "技术女主播带粉",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "Jue美娘",
-    "watch_num(主播热度)": "22.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/03/b8788768b224a3a666d13547c3ab5782.jpg",
-    "room_title(房间标题)": "百因必有果 4298793",
-    "room_cate(房间分类)": "QQ飞车",
-    "anchor_name(主播ID)": "DY丶皮皮炸",
-    "watch_num(主播热度)": "22.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/20415_1351.png",
-    "room_title(房间标题)": "❤️可乐❤️科幻 经典 灾难 动作 电影",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "少女可乐橙",
-    "watch_num(主播热度)": "19万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/31/6262982_20190831233540_small.jpg",
-    "room_title(房间标题)": "嗨~你慧眼识猪吗",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "明珠小仙女",
-    "watch_num(主播热度)": "18.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1380899_1351.png",
-    "room_title(房间标题)": "雨露均沾冲战神ing~",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "皮西蒙丷",
-    "watch_num(主播热度)": "22.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1818791_1352.png",
-    "room_title(房间标题)": "追梦4个小时！干就完了！",
-    "room_cate(房间分类)": "欢乐斗地主",
-    "anchor_name(主播ID)": "正能量丶油条",
-    "watch_num(主播热度)": "21.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5146843_1352.png",
-    "room_title(房间标题)": "第一露娜 死三次请举报",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "月下无限连小啊鹏",
-    "watch_num(主播热度)": "21.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/01/6333998_20190801193659.jpg",
-    "room_title(房间标题)": "【交友】浪漫之约i",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "英爵一浪漫之约",
-    "watch_num(主播热度)": "18.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/02/f2fa6b7c0359ba7ace7e284fe0f023c9_big.jpg",
-    "room_title(房间标题)": "越努力越幸运~ 781869",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "美文咩",
-    "watch_num(主播热度)": "18.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/02/a518a7efbc1c210c14a05d87b90fefc3.jpg",
-    "room_title(房间标题)": "帝國時代之羅馬复兴",
-    "room_cate(房间分类)": "怀旧游戏",
-    "anchor_name(主播ID)": "中国罗马俱乐部",
-    "watch_num(主播热度)": "21.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/22/e9de64e88789bf51a817a9107865cf72.jpg",
-    "room_title(房间标题)": "OPL秋季赛常规赛 16:30开赛",
-    "room_cate(房间分类)": "决战平安京",
-    "anchor_name(主播ID)": "平安京内务组",
-    "watch_num(主播热度)": "21.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190905/249117_2208.png",
-    "room_title(房间标题)": "【PWL】勇士联赛 WEEK13DAY4",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "绝地求生赛事2",
-    "watch_num(主播热度)": "21万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/7029806_1348.png",
-    "room_title(房间标题)": "❤猪酱❤超级话痨主播了解一下",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "小猪酱啊",
-    "watch_num(主播热度)": "17万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/29/6775822_20190829023846.jpg",
-    "room_title(房间标题)": "【交友】云顶,最强交友十三/风月/噗噗冠",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "爱约一云顶之约",
-    "watch_num(主播热度)": "16.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6522527_1348.png",
-    "room_title(房间标题)": "不来办卡就渣你！！",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "空海267",
-    "watch_num(主播热度)": "21万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/02/b9dc201925ecf000f0cfa21dde4c2384.jpg",
-    "room_title(房间标题)": "即将满级小战士-倒计时9天",
-    "room_cate(房间分类)": "DNF",
-    "anchor_name(主播ID)": "亡誓Wang",
-    "watch_num(主播热度)": "20.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/65137_1351.png",
-    "room_title(房间标题)": "美神:马里奥男神",
-    "room_cate(房间分类)": "马里奥制造",
-    "anchor_name(主播ID)": "I美神I",
-    "watch_num(主播热度)": "20.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6992548_1348.png",
-    "room_title(房间标题)": "浅浅⭐小诺澜陪你看经典",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "浅浅是只兔OvO",
-    "watch_num(主播热度)": "16.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/02/02/b1458992f18e762c5dcd9c42ebcfb9c8.png",
-    "room_title(房间标题)": "直/优质御姐你的BGM",
-    "room_cate(房间分类)": "电台",
-    "anchor_name(主播ID)": "妍子姑娘",
-    "watch_num(主播热度)": "16.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4926715_1352.png",
-    "room_title(房间标题)": "荣耀90星上101星",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "不如叫我慢慢",
-    "watch_num(主播热度)": "20.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/934720_1351.png",
-    "room_title(房间标题)": "【不管】搞艺术！一搞4个！嘿嘿",
-    "room_cate(房间分类)": "第5人格",
-    "anchor_name(主播ID)": "瓦不管不管",
-    "watch_num(主播热度)": "19.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/03/da91bcd344baa095f85a4bd1da2a5612.jpg",
-    "room_title(房间标题)": "古风萌糖唱歌给你听~",
-    "room_cate(房间分类)": "DNF",
-    "anchor_name(主播ID)": "奶糖是喵不是糖",
-    "watch_num(主播热度)": "19.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/29/6655352_20190829030329.jpg",
-    "room_title(房间标题)": "【交友】哥哥你在哪 妹妹在等你！",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "广娱一甜味少女",
-    "watch_num(主播热度)": "16.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/3649581_1352.png",
-    "room_title(房间标题)": "【污夕阳】科幻 灾难 喜剧 动作 电影",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "鲜夕阳",
-    "watch_num(主播热度)": "16.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5297545_1352.png",
-    "room_title(房间标题)": "国服第一骚猴 进来学操作",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "言小七i",
-    "watch_num(主播热度)": "18.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/65848_1351.png",
-    "room_title(房间标题)": "【猫腻】为了部落",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "Happy丨猫腻",
-    "watch_num(主播热度)": "18.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/3712446_1352.png",
-    "room_title(房间标题)": "9.16上分套路详细教学.",
-    "room_cate(房间分类)": "lol云顶之弈",
-    "anchor_name(主播ID)": "英俊潇洒小胖墩",
-    "watch_num(主播热度)": "18.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/747764_1346.png",
-    "room_title(房间标题)": "【女神金】科幻 动作 喜剧 电影",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "伊太刀刀",
-    "watch_num(主播热度)": "16.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/607088_1351.png",
-    "room_title(房间标题)": "深山采挖人参~",
-    "room_cate(房间分类)": "乡野",
-    "anchor_name(主播ID)": "中华人参王",
-    "watch_num(主播热度)": "15.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1340947_1351.png",
-    "room_title(房间标题)": "每日欢乐时光",
-    "room_cate(房间分类)": "魔兽怀旧服",
-    "anchor_name(主播ID)": "痴汉万宝路",
-    "watch_num(主播热度)": "18.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/214786_1351.png",
-    "room_title(房间标题)": "决斗骑-迎风长成男子汉",
-    "room_cate(房间分类)": "炉石传说",
-    "anchor_name(主播ID)": "两仪未娜丶",
-    "watch_num(主播热度)": "17.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/276694_1346.png",
-    "room_title(房间标题)": "强化12 13送赫尔德！增幅11！天空！",
-    "room_cate(房间分类)": "DNF",
-    "anchor_name(主播ID)": "今日不服",
-    "watch_num(主播热度)": "17.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/2060620_7225783_5bdec_2_1352.jpg",
-    "room_title(房间标题)": "《院長》煮晚餐囉",
-    "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "阿春疯人院院长",
-    "watch_num(主播热度)": "15.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6537888_1348.png",
-    "room_title(房间标题)": "【米娅陪看】喜剧 科幻 动作 小可爱~",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "开森的Mia",
-    "watch_num(主播热度)": "14.4万"
-}
-{
-    "room_img(房间封面)": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png",
-    "room_title(房间标题)": "正式服之狂暴战-非酋篇",
-    "room_cate(房间分类)": "魔兽世界",
-    "anchor_name(主播ID)": "夏沫呆呆",
-    "watch_num(主播热度)": "17.3万"
-}
-{
-    "room_img(房间封面)": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png",
-    "room_title(房间标题)": "午夜恐怖故事···",
-    "room_cate(房间分类)": "鱼教",
-    "anchor_name(主播ID)": "羽伞恐怖故事",
-    "watch_num(主播热度)": "17.2万"
-}
-{
-    "room_img(房间封面)": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png",
-    "room_title(房间标题)": "大家晚上早点吃饭哦",
-    "room_cate(房间分类)": "第5人格",
-    "anchor_name(主播ID)": "美味的茄子老师",
-    "watch_num(主播热度)": "17.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5776683_1352.png",
-    "room_title(房间标题)": "太难了直播间",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "小奶宝baby",
-    "watch_num(主播热度)": "14.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/902379_1351.png",
-    "room_title(房间标题)": "❤心动可可❤超甜女友向你发来互动~",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "可可酱m",
-    "watch_num(主播热度)": "14.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1067772_1351.png",
-    "room_title(房间标题)": "【皓铭】速通战争机器5  ！！",
-    "room_cate(房间分类)": "战争机器系列",
-    "anchor_name(主播ID)": "居然是铭哥",
-    "watch_num(主播热度)": "16.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/3969650_1352.png",
-    "room_title(房间标题)": "神隐：冰原通宵开荒 36小时够解禁吗",
-    "room_cate(房间分类)": "怪物猎人",
-    "anchor_name(主播ID)": "神隐的直播间",
-    "watch_num(主播热度)": "16.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/07/29/2b640cf2ed8719daaadc5ff094500dca.jpg",
-    "room_title(房间标题)": "8月3日CFML决赛KB-Q9重播",
-    "room_cate(房间分类)": "CF手游",
-    "anchor_name(主播ID)": "CF手游官方直播间",
-    "watch_num(主播热度)": "16.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/07/26/6028b648cea940e05ba16b801cac24cc.jpg",
-    "room_title(房间标题)": "【交友】对你热爱全力以赴的喜欢",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "王者一黑金1st",
-    "watch_num(主播热度)": "14.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/07/4e85e744142768a8af63bdf69592ec90.jpg",
-    "room_title(房间标题)": "性感新人报道",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "你的软桃桃呀",
-    "watch_num(主播热度)": "13.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6566346_1348.png",
-    "room_title(房间标题)": "单排随机英雄超神 ！超神！",
-    "room_cate(房间分类)": "DOTA",
-    "anchor_name(主播ID)": "子子阳",
+    "anchor_name(主播ID)": "chere七七",
     "watch_num(主播热度)": "15.9万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5068351_1352.png",
-    "room_title(房间标题)": "娃娃哇哇哇",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "解说娃娃",
-    "watch_num(主播热度)": "15.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5248884_1352.png",
-    "room_title(房间标题)": "【冲战神】亚洲狙神看过都说强！",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "死神Ju",
-    "watch_num(主播热度)": "15.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/96577_1351.png",
-    "room_title(房间标题)": "❤️小U❤️丧尸 鬼片 恐怖 惊悚 电影",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "UU娇哒哒呀",
-    "watch_num(主播热度)": "13.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/10/30/1b1dc557ae41ce8a115417e6a47cbd45.jpg",
-    "room_title(房间标题)": "嗨，你的每日推荐女孩上线啦",
-    "room_cate(房间分类)": "电台",
-    "anchor_name(主播ID)": "不许装睡了",
-    "watch_num(主播热度)": "13万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5937793_1347.png",
-    "room_title(房间标题)": "玩必赚单职业",
-    "room_cate(房间分类)": "传奇",
-    "anchor_name(主播ID)": "Arch久遇",
-    "watch_num(主播热度)": "15.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4371221_1352.png",
-    "room_title(房间标题)": "健康可爱 没有眼袋~",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "泡芙小仙女vivi",
-    "watch_num(主播热度)": "15.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4768139_1352.png",
-    "room_title(房间标题)": "【头鱼]给大家整一些蛇皮操作",
-    "room_cate(房间分类)": "第5人格",
-    "anchor_name(主播ID)": "头鱼教主",
-    "watch_num(主播热度)": "15.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/7136517_1348.png",
-    "room_title(房间标题)": "江湖不好混，躲我这里吧❤",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "鹿九酱",
-    "watch_num(主播热度)": "12.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4549169_1337.png",
-    "room_title(房间标题)": "「橙子Orange」「港剧」「19点见」",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "橙橙子丶剧集舍",
-    "watch_num(主播热度)": "12.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5068351_1352.png",
-    "room_title(房间标题)": "娃娃哇哇哇",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "解说娃娃",
-    "watch_num(主播热度)": "14.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1294569_1351.png",
-    "room_title(房间标题)": "荣耀69星单排冲刺101",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "毕竟是柚子",
-    "watch_num(主播热度)": "14.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/02/9e9d25de98154f337dd36890f71705fe.jpg",
-    "room_title(房间标题)": "红眼PK大猛男",
-    "room_cate(房间分类)": "DNF",
-    "anchor_name(主播ID)": "红眼小奎",
-    "watch_num(主播热度)": "14.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/10/3809115_20190810222712.jpg",
-    "room_title(房间标题)": "【直播】偷得浮生秋日闲",
-    "room_cate(房间分类)": "电台",
-    "anchor_name(主播ID)": "阿睿ARrr",
-    "watch_num(主播热度)": "12.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/09/02/6590857_20190902152707.jpg",
-    "room_title(房间标题)": "【交友】梵音之声本周推荐女神：Fy礼遇i",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "星娱一梵音之声",
-    "watch_num(主播热度)": "12.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/593392_1351.png",
-    "room_title(房间标题)": "不再低调：峡谷新号95胜率上王者",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "石页的第一根矛s",
-    "watch_num(主播热度)": "14.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4251390_1352.png",
-    "room_title(房间标题)": "单人四排落地不杀人请举报我",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "吴山人丷",
-    "watch_num(主播热度)": "14.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5373486_1352.png",
-    "room_title(房间标题)": "元歌单排冲101星中，妖魔鬼怪快走开",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "xqc倾城",
-    "watch_num(主播热度)": "14.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/276200_1346.png",
-    "room_title(房间标题)": "【蓝翔】三国弹幕天团[请勿刷屏]",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "山东蓝翔技工学院",
-    "watch_num(主播热度)": "12.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/25/6686791_20190725222035.jpg",
-    "room_title(房间标题)": "【交友】柚子 小林 樂哥;冠",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "君悦一黑色玫瑰",
-    "watch_num(主播热度)": "12.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4371221_1352.png",
-    "room_title(房间标题)": "健康可爱 没有眼袋~",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "泡芙小仙女vivi",
-    "watch_num(主播热度)": "14.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/3475426_1352.png",
-    "room_title(房间标题)": "怀旧pvp社区“软柿子”开张",
-    "room_cate(房间分类)": "魔兽怀旧服",
-    "anchor_name(主播ID)": "菓苒",
-    "watch_num(主播热度)": "14.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/3661927_1352.png",
-    "room_title(房间标题)": "微信区国服玄策带粉没输过",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "小梦哥哥吖",
-    "watch_num(主播热度)": "14.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/820180_1351.png",
-    "room_title(房间标题)": "【小奈忆】性感渣女在线陪看中",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "小奈忆",
-    "watch_num(主播热度)": "12万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/28/7502409_20190828224019.jpg",
-    "room_title(房间标题)": "只想陪在你身边 7502409",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "嗨玩一在你身边",
-    "watch_num(主播热度)": "12万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/269666_1351.png",
-    "room_title(房间标题)": "♥♥ ８０星王合击♥♥今日首区",
-    "room_cate(房间分类)": "传奇",
-    "anchor_name(主播ID)": "逆天丶小哥哥",
-    "watch_num(主播热度)": "14.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/05/27/4e881ec973731a22ab15654fec79e474.jpg",
-    "room_title(房间标题)": "小沐木：百因必有果，你的报应就是我~",
-    "room_cate(房间分类)": "第5人格",
-    "anchor_name(主播ID)": "丶小沐木",
-    "watch_num(主播热度)": "14.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/07/03/4a6a2cd243d7ef564299c0d0e1b73cbd.jpg",
-    "room_title(房间标题)": "郑州80it：店庆活动火热进行中",
-    "room_cate(房间分类)": "数码科技",
-    "anchor_name(主播ID)": "80it电脑网",
-    "watch_num(主播热度)": "14.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/23/7476407_20190823200230_small.jpg",
-    "room_title(房间标题)": "我在等 这世上唯一契合的灵魂",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "你的恩宠baby",
-    "watch_num(主播热度)": "11.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/29/6832569_20190729173740.jpg",
-    "room_title(房间标题)": "【交友】招冠名，优质主持。",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "广娱一极致声诱",
-    "watch_num(主播热度)": "11.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/44218_1351.png",
-    "room_title(房间标题)": "【高画质】欢乐四徘局",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "小汉堡鸭",
-    "watch_num(主播热度)": "14.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/688631_1351.png",
-    "room_title(房间标题)": "宇宙最强女盲僧！满血吊打小朋友？",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "真皮丶猫猫",
-    "watch_num(主播热度)": "13.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/11/23/d5e06064b1ae3fa5bf1da789691da31d.jpg",
-    "room_title(房间标题)": "不要怂 就是干  297535",
-    "room_cate(房间分类)": "棋牌娱乐",
-    "anchor_name(主播ID)": "恶蚊子",
-    "watch_num(主播热度)": "13.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/12/19/a58a36983cae80b31a6c1c02295d5555_big.jpg",
-    "room_title(房间标题)": "我回来啦~~~ 6146360",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "小小蜜桃Q",
-    "watch_num(主播热度)": "11.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/25/f1891171071c6c4444be5b1e210499ce.jpg",
-    "room_title(房间标题)": "《情感分析》走心主播，扎心治愈",
-    "room_cate(房间分类)": "电台",
-    "anchor_name(主播ID)": "水苍枭",
-    "watch_num(主播热度)": "11万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5264153_1352.png",
-    "room_title(房间标题)": "【肖璐】今天好好打九连",
-    "room_cate(房间分类)": "DOTA",
-    "anchor_name(主播ID)": "肖璐s",
-    "watch_num(主播热度)": "13.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/47378_1346.png",
-    "room_title(房间标题)": "【猫叔】怪物猎人世界 冰原大师开荒~~~",
-    "room_cate(房间分类)": "怪物猎人",
-    "anchor_name(主播ID)": "猫叔灬灬",
-    "watch_num(主播热度)": "13.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/237974_1351.png",
-    "room_title(房间标题)": "好多天没打DOTA咯，练一练！",
-    "room_cate(房间分类)": "DOTA2",
-    "anchor_name(主播ID)": "wings跳刀跳刀丶",
-    "watch_num(主播热度)": "13.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/248753_1351.png",
-    "room_title(房间标题)": "【s1134】经典 科幻 动作 灾难",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "s1134",
-    "watch_num(主播热度)": "10.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/07/23/c223d0784aa99af0e0221f2d07a93fe8.jpg",
-    "room_title(房间标题)": "奥特曼与小怪兽不得不说的故事",
-    "room_cate(房间分类)": "二次元",
-    "anchor_name(主播ID)": "我砸晕了牛顿奥",
-    "watch_num(主播热度)": "10.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5244018_1347.png",
-    "room_title(房间标题)": "想要的都有~！",
-    "room_cate(房间分类)": "探灵笔记",
-    "anchor_name(主播ID)": "摇摇摇摇光",
-    "watch_num(主播热度)": "13.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/7419322_1354.png",
-    "room_title(房间标题)": "全能选手王者法拉利上荣耀~",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "雪碧Sprite3",
-    "watch_num(主播热度)": "13.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5878647_1352.png",
-    "room_title(房间标题)": "猛男队！加油冲冲冲！莽他!!刚他！",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "追梦丶清风",
-    "watch_num(主播热度)": "13.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/16/7310739_20190816173847.jpg",
-    "room_title(房间标题)": "嫣然一笑，心只有你",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "MK一含笑嫣然",
-    "watch_num(主播热度)": "10.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4512675_1448245_6d0d0_2_1351.jpg",
-    "room_title(房间标题)": "陪伴是最长情的告白~ 4512675",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "猪猪莹妹儿丶",
-    "watch_num(主播热度)": "10.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/145183_1351.png",
-    "room_title(房间标题)": "【阿扎】7.62小伙 6000分莽夫局",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "阿扎y",
-    "watch_num(主播热度)": "13.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5867737_1352.png",
-    "room_title(房间标题)": "DGL艾九九 战神局爆锤各路神仙",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "奇奇怪怪艾九九",
-    "watch_num(主播热度)": "13万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/323714_1351.png",
-    "room_title(房间标题)": "OC频道包大人的直播间",
-    "room_cate(房间分类)": "数码科技",
-    "anchor_name(主播ID)": "OC频道包大人",
-    "watch_num(主播热度)": "13万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1504507_1351.png",
-    "room_title(房间标题)": "灰仔：风很好，云很淡",
-    "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "灰老板呀灰老板",
-    "watch_num(主播热度)": "10.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/25/6725037_20190725182944.jpg",
-    "room_title(房间标题)": "鸭皇 香蕉  户口冠名",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "王者一恋爱季节",
-    "watch_num(主播热度)": "9.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/242045_1351.png",
-    "room_title(房间标题)": "❤点击领取一只甜心心❤",
-    "room_cate(房间分类)": "挺进地牢",
-    "anchor_name(主播ID)": "甜心战士",
-    "watch_num(主播热度)": "13万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6297388_0120.png",
-    "room_title(房间标题)": "SSS_Xbei",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "SSSXbei",
-    "watch_num(主播热度)": "13万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/04/8cae5351ce7947b182b2524f913c349d.jpg",
-    "room_title(房间标题)": "思奇：排位赛",
-    "room_cate(房间分类)": "跑跑手游",
-    "anchor_name(主播ID)": "钟祥思奇",
-    "watch_num(主播热度)": "12.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/25/7204357_20190725220921.jpg",
-    "room_title(房间标题)": "【交友】奇妙哥，微醺哥霸气冠",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "君悦一摩登女郎",
-    "watch_num(主播热度)": "9.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/07/01/39f7cc2131b734a7c669de9384a73613_big.jpg",
-    "room_title(房间标题)": "冷风八卦：努力终会有收获",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "小象丶冷风",
-    "watch_num(主播热度)": "9.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/7001797_1353.png",
-    "room_title(房间标题)": "国服第一李白进来学技术 技术主播没有GG",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "月中仙丨",
-    "watch_num(主播热度)": "12.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/677324_1351.png",
-    "room_title(房间标题)": "小雨：宇宙骑❤快乐炉石❤",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/633019_2124.png",
+    "room_title(房间标题)": "啦啦啦：竞技场王者——自杀术？",
     "room_cate(房间分类)": "炉石传说",
-    "anchor_name(主播ID)": "萌兔子丶小雨",
-    "watch_num(主播热度)": "12.7万"
+    "anchor_name(主播ID)": "啦啦啦不是狗狗狗",
+    "watch_num(主播热度)": "49.7万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4369877_1352.png",
-    "room_title(房间标题)": "基础布局，中盘入局，精析残局，邀您共享",
-    "room_cate(房间分类)": "中国象棋",
-    "anchor_name(主播ID)": "肖九拙",
-    "watch_num(主播热度)": "12.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/23/6826796_20190823032123.jpg",
-    "room_title(房间标题)": "【交友】做你的宝贝好吗",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "黑马一白金汉宫",
-    "watch_num(主播热度)": "9.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1525851_1351.png",
-    "room_title(房间标题)": "【小贤】青春 爱情 爆笑 公寓",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "曾小贤兒",
-    "watch_num(主播热度)": "9.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/727215_1351.png",
-    "room_title(房间标题)": "赛季初王牌直通车 飞机上车",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "七岚丶",
-    "watch_num(主播热度)": "12.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/436240_1351.png",
-    "room_title(房间标题)": "深夜说怪谈，有胆你来听",
-    "room_cate(房间分类)": "鱼教",
-    "anchor_name(主播ID)": "摆渡人老鬼",
-    "watch_num(主播热度)": "12.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/306236_1351.png",
-    "room_title(房间标题)": "强12 13 天空 增幅保护碰瓷",
-    "room_cate(房间分类)": "DNF",
-    "anchor_name(主播ID)": "主播东门",
-    "watch_num(主播热度)": "12.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/24/1997783_20190824110341_small.jpg",
-    "room_title(房间标题)": "你看见我的小心心了吗？",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "迎接太阳的庆",
-    "watch_num(主播热度)": "9.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/244548_1351.png",
-    "room_title(房间标题)": "叶太子在达州",
-    "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "叶子户外",
-    "watch_num(主播热度)": "9.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5293121_1352.png",
-    "room_title(房间标题)": "无偿带躺，收徒永久带飞，欢迎大家",
-    "room_cate(房间分类)": "球球大作战",
-    "anchor_name(主播ID)": "李念想",
-    "watch_num(主播热度)": "12.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/246195_1351.png",
-    "room_title(房间标题)": "长青派火猫 摸着头发上着分",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/21/d5666d45e1bfba2c7d68cbc05ab0c605.jpg",
+    "room_title(房间标题)": "痒痒虫阿：生日歌会~",
     "room_cate(房间分类)": "DOTA2",
-    "anchor_name(主播ID)": "叶子长青K",
-    "watch_num(主播热度)": "12.5万"
+    "anchor_name(主播ID)": "痒痒虫阿",
+    "watch_num(主播热度)": "48.2万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/522424_1346.png",
-    "room_title(房间标题)": "LEC季后赛9月2日重播",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "Riot丶LCS",
-    "watch_num(主播热度)": "12.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/26/6613818_20190826023740_small.jpg",
-    "room_title(房间标题)": "快进来听歌啦",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "甜甜的馨啊",
-    "watch_num(主播热度)": "9.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1402692_1346.png",
-    "room_title(房间标题)": "给你们表演两个～",
-    "room_cate(房间分类)": "户外",
-    "anchor_name(主播ID)": "xxxxxx魅",
-    "watch_num(主播热度)": "8.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5329017_1352.png",
-    "room_title(房间标题)": "英国诺丁汉Notts TV 采访",
-    "room_cate(房间分类)": "人文军事",
-    "anchor_name(主播ID)": "飞雪看世界",
-    "watch_num(主播热度)": "12.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/549040_1351.png",
-    "room_title(房间标题)": "金牌汽车主播 帮你选车省钱防套路",
-    "room_cate(房间分类)": "汽车",
-    "anchor_name(主播ID)": "九江008",
-    "watch_num(主播热度)": "12.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/29_1351.png",
-    "room_title(房间标题)": "做一下黑上钥匙，今天要刷爆雷德！",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "教练JoKer",
-    "watch_num(主播热度)": "12.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/875795_1351.png",
-    "room_title(房间标题)": "【雪儿】陪你重温经典电影！",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "丿Lucky雪儿",
-    "watch_num(主播热度)": "8.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/29/7281747_20190829204423.jpg",
-    "room_title(房间标题)": "【交友】SR一私人专属约会现场",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "SR一私人专属",
-    "watch_num(主播热度)": "8.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/488744_1351.png",
-    "room_title(房间标题)": "预约增幅11     冲冲！！！！",
-    "room_cate(房间分类)": "DNF",
-    "anchor_name(主播ID)": "DNF彩粉",
-    "watch_num(主播热度)": "12.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5519174_1352.png",
-    "room_title(房间标题)": "三黑冲荣耀！！",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "假的短短qwq",
-    "watch_num(主播热度)": "12.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/259676_1351.png",
-    "room_title(房间标题)": "军棋★判断有点邪.思路有点野.技术有点牛",
-    "room_cate(房间分类)": "棋牌娱乐",
-    "anchor_name(主播ID)": "神机小诸葛",
-    "watch_num(主播热度)": "12万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/29/6809244_20190829203739.jpg",
-    "room_title(房间标题)": "【交友】SR一独家记忆",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "SR一独家记忆",
-    "watch_num(主播热度)": "8.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/771592_4725625_1d705_2_1354.jpg",
-    "room_title(房间标题)": "法斗，负重前行，努力渡劫",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "周法法法法法",
-    "watch_num(主播热度)": "8.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/03/15/2f5c8d29891f8619ebb989762d8bb697.jpg",
-    "room_title(房间标题)": "diyy：早睡早起身体好!",
-    "room_cate(房间分类)": "CS:GO",
-    "anchor_name(主播ID)": "diyy刘頔",
-    "watch_num(主播热度)": "11.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/3231070_1352.png",
-    "room_title(房间标题)": "超甜音萌新小姐姐❤",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "甜蜜又乖",
-    "watch_num(主播热度)": "11.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/05/7707a6e221f7e32a9750f8116f8ecfd4.jpg",
-    "room_title(房间标题)": "高端局排位！冲国王！",
-    "room_cate(房间分类)": "王牌战士",
-    "anchor_name(主播ID)": "苦心孤诣小星光",
-    "watch_num(主播热度)": "11.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/09/04/7115893_20190904005959_small.jpg",
-    "room_title(房间标题)": "大家好这里快要开门了",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "进击的瑞莉",
-    "watch_num(主播热度)": "8.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4000754_1352.png",
-    "room_title(房间标题)": "诺宝❤我回来了，你还在吗",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "念你的诺",
-    "watch_num(主播热度)": "8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1706950_1351.png",
-    "room_title(房间标题)": "拆车视频集锦",
-    "room_cate(房间分类)": "汽车",
-    "anchor_name(主播ID)": "大飙车",
-    "watch_num(主播热度)": "11.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/503866_1351.png",
-    "room_title(房间标题)": "❤️七七酱❤️冰原打铁猎人天下无敌！",
-    "room_cate(房间分类)": "怪物猎人",
-    "anchor_name(主播ID)": "小仙女七七酱",
-    "watch_num(主播热度)": "11.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/12/06/687d17b0c177fbf4bd4e515d25d546d8.jpg",
-    "room_title(房间标题)": "翔哥哥：萌新乐园丨肝帝集结地",
-    "room_cate(房间分类)": "阴阳师",
-    "anchor_name(主播ID)": "高翔XiangBro",
-    "watch_num(主播热度)": "11.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/31/5776164_20190731022042.jpg",
-    "room_title(房间标题)": "【交友】 一往情深",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "音美一一往情深",
-    "watch_num(主播热度)": "7.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/426517_1351.png",
-    "room_title(房间标题)": "晓妞动漫花园o(∩_∩)o",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "晓晓666666",
-    "watch_num(主播热度)": "7.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/912148_1351.png",
-    "room_title(房间标题)": "【天津话】怪猎DLC",
-    "room_cate(房间分类)": "怪物猎人",
-    "anchor_name(主播ID)": "坤哲丶",
-    "watch_num(主播热度)": "11.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/302928_1351.png",
-    "room_title(房间标题)": "涂鸦酱:雾都灵神 恐怖继续",
-    "room_cate(房间分类)": "探灵笔记",
-    "anchor_name(主播ID)": "涂鸦酱Q",
-    "watch_num(主播热度)": "11.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1187971_1351.png",
-    "room_title(房间标题)": "金牌讲师。在线教学！",
-    "room_cate(房间分类)": "赤潮自走棋",
-    "anchor_name(主播ID)": "夜澜",
-    "watch_num(主播热度)": "11.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/434971_1351.png",
-    "room_title(房间标题)": "【怡寶】初恋的感觉",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "活捉一只小怡寶",
-    "watch_num(主播热度)": "7.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/7116591_1353.png",
-    "room_title(房间标题)": "把所有可爱都存起来 遇到你时全部给你",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "黎黎黎来了",
-    "watch_num(主播热度)": "7.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5103806_1352.png",
-    "room_title(房间标题)": "铠铠铠铠铠铠铠铠铠铠铠铠铠铠铠铠铠铠铠铠",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "皇玺丶Fly高一刀",
-    "watch_num(主播热度)": "11.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/448067_1351.png",
-    "room_title(房间标题)": "最火180星王合击",
-    "room_cate(房间分类)": "传奇",
-    "anchor_name(主播ID)": "新开热血传奇",
-    "watch_num(主播热度)": "11.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/31/b98e2aa48b64bc9641d343b0594a952c.jpg",
-    "room_title(房间标题)": "帮上枪神啦！！！！",
-    "room_cate(房间分类)": "CF手游",
-    "anchor_name(主播ID)": "亮哥il",
-    "watch_num(主播热度)": "11.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1282057_1900591_45efb_2_1345.jpg",
-    "room_title(房间标题)": "我是可爱的宝贝 你是可爱吗？",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "清欢mmm",
-    "watch_num(主播热度)": "7.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/315457_1351.png",
-    "room_title(房间标题)": "【香港赌片】喜剧、黑帮、动作、武侠、经典",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "吃米滴虫",
-    "watch_num(主播热度)": "7.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1279326_1351.png",
-    "room_title(房间标题)": "一个新车专业 二手车更专业的直播间",
-    "room_cate(房间分类)": "汽车",
-    "anchor_name(主播ID)": "大仙二手车讲堂",
-    "watch_num(主播热度)": "11.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1691187_1351.png",
-    "room_title(房间标题)": "Peanut的直播间~！",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "GEN直播Peanut",
-    "watch_num(主播热度)": "11.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5181223_1352.png",
-    "room_title(房间标题)": "[双空投枪]新赛季1v4！",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "主播盒子",
-    "watch_num(主播热度)": "11万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/28/5f06cec984b5ae2e83648da913fa757a.jpg",
-    "room_title(房间标题)": "徐大sao真人来了，点关注！不定时直播哦",
-    "room_cate(房间分类)": "美食",
-    "anchor_name(主播ID)": "徐大sao",
-    "watch_num(主播热度)": "7.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/07/28/f0e174e84c8012ecee3ab173b093d32f.jpg",
-    "room_title(房间标题)": "【交友】钻石欢迎你",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "王者一钻石1st",
-    "watch_num(主播热度)": "7.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/09/5b4c5a17c6426a1cdba10e1dacae6c7b.png",
-    "room_title(房间标题)": "决斗天王的诞生！ 热血直播",
-    "room_cate(房间分类)": "DNF",
-    "anchor_name(主播ID)": "DNF海因0206",
-    "watch_num(主播热度)": "11万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5084067_1352.png",
-    "room_title(房间标题)": "毁灭攻速首站",
-    "room_cate(房间分类)": "传奇",
-    "anchor_name(主播ID)": "爵丶爷霸气",
-    "watch_num(主播热度)": "11万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/863_1351.png",
-    "room_title(房间标题)": "小姐姐荣耀三排输了红包",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "七煌孙立人",
-    "watch_num(主播热度)": "10.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/17/7431313_20190817115618.jpg",
-    "room_title(房间标题)": "王者一因为有你的直播间",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "王者一因为有你",
-    "watch_num(主播热度)": "7.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4258555_1352.png",
-    "room_title(房间标题)": "【小片片说大片】片荒的日子找片片",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "小片片说大片",
-    "watch_num(主播热度)": "7.2万"
-}
-{
-    "room_img(房间封面)": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png",
-    "room_title(房间标题)": "不洗牌专场！招募低保上千万号",
-    "room_cate(房间分类)": "欢乐斗地主",
-    "anchor_name(主播ID)": "避风港丶老顽童",
-    "watch_num(主播热度)": "10.9万"
-}
-{
-    "room_img(房间封面)": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png",
-    "room_title(房间标题)": "国服猴子一张办卡永久上车",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "飞总er阿",
-    "watch_num(主播热度)": "10.9万"
-}
-{
-    "room_img(房间封面)": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png",
-    "room_title(房间标题)": "换DPI, 慢慢适应 有点马",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190921/2461752_2125.png",
+    "room_title(房间标题)": "马牛牛:  DG战队OB周决赛！WOC",
     "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "SlinGEleven",
-    "watch_num(主播热度)": "10.9万"
+    "anchor_name(主播ID)": "47号Gamer",
+    "watch_num(主播热度)": "46.8万"
 }
 {
-    "room_img(房间封面)": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png",
-    "room_title(房间标题)": "【粤语电影】【周星驰】【一起看最佳导演】",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "和联胜丶星爺來了",
-    "watch_num(主播热度)": "7.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/25/7300569_20190725230144.jpg",
-    "room_title(房间标题)": "[交友] 需要一个宠爱~",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "源森一倾城之恋",
-    "watch_num(主播热度)": "7.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/216555_1351.png",
-    "room_title(房间标题)": "超级水友赛，欢乐模式开启",
-    "room_cate(房间分类)": "lol云顶之弈",
-    "anchor_name(主播ID)": "雨霖铃丶丶",
-    "watch_num(主播热度)": "10.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/06/11/473866e4557d8887205aca6574c9438a.jpg",
-    "room_title(房间标题)": "炼狱 蔷薇大炮 友情卷搞起",
-    "room_cate(房间分类)": "穿越火线",
-    "anchor_name(主播ID)": "渝万丶狗哥",
-    "watch_num(主播热度)": "10.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/183662_1351.png",
-    "room_title(房间标题)": "Yd：满级啦刷点儿装备",
-    "room_cate(房间分类)": "魔兽怀旧服",
-    "anchor_name(主播ID)": "Yd丶Skyline",
-    "watch_num(主播热度)": "10.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/15/0a7a0fa394b9852da0699d12a3f69012_big.jpg",
-    "room_title(房间标题)": "愿有岁月可回首，且以深情共白头",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "宝林兄",
-    "watch_num(主播热度)": "7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6864152_1353.png",
-    "room_title(房间标题)": "户外抽水捕鱼",
-    "room_cate(房间分类)": "乡野",
-    "anchor_name(主播ID)": "户外菜鸟队",
-    "watch_num(主播热度)": "7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6935392_1353.png",
-    "room_title(房间标题)": "【精炼主播】最强罡王，请求出战。",
-    "room_cate(房间分类)": "完美世界手游",
-    "anchor_name(主播ID)": "艾斯大魔王m",
-    "watch_num(主播热度)": "10.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/549311_1351.png",
-    "room_title(房间标题)": "增幅11增幅12增幅13搞起来！来！！！",
-    "room_cate(房间分类)": "DNF",
-    "anchor_name(主播ID)": "迪哥助你圆梦",
-    "watch_num(主播热度)": "10.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6305336_1353.png",
-    "room_title(房间标题)": "逐鹿之城-散人激情打金大服",
-    "room_cate(房间分类)": "传奇",
-    "anchor_name(主播ID)": "用户91423505",
-    "watch_num(主播热度)": "10.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/487663_1351.png",
-    "room_title(房间标题)": "可怜可怜孩子吧 487663",
-    "room_cate(房间分类)": "乡野",
-    "anchor_name(主播ID)": "超哥户外打野",
-    "watch_num(主播热度)": "6.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/31/84a2847c89673080587363509e2e2116_big.jpg",
-    "room_title(房间标题)": "等待是沉默的深呼吸",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "还想吃葡萄",
-    "watch_num(主播热度)": "6.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/68318_1351.png",
-    "room_title(房间标题)": "走黯-战争机器5剧情走起",
-    "room_cate(房间分类)": "战争机器系列",
-    "anchor_name(主播ID)": "走黯",
-    "watch_num(主播热度)": "10.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/453605_1351.png",
-    "room_title(房间标题)": "冲分冲分冲分 453605",
-    "room_cate(房间分类)": "猫和老鼠",
-    "anchor_name(主播ID)": "津津有味大西瓜",
-    "watch_num(主播热度)": "10.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4387092_1347.png",
-    "room_title(房间标题)": "北荒大陆直播间",
-    "room_cate(房间分类)": "传奇",
-    "anchor_name(主播ID)": "烟沙丶强哥",
-    "watch_num(主播热度)": "10.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/07/25/0d283a514b9c6de3cd3c7bf048635a83.jpg",
-    "room_title(房间标题)": "【交友】像只鱼儿在你的池塘",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "王者一王者1st",
-    "watch_num(主播热度)": "6.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/85829_1351.png",
-    "room_title(房间标题)": "吃个鸡美滋滋 85829",
-    "room_cate(房间分类)": "美食",
-    "anchor_name(主播ID)": "主播串哥",
-    "watch_num(主播热度)": "6.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5792609_1352.png",
-    "room_title(房间标题)": "RNG上校OB!!恭喜RNG提前进入S9",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "RNG上校OB皇族RYL不放弃",
-    "watch_num(主播热度)": "10.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/03/29/9321a0cd371099fff646d657001bf414.jpg",
-    "room_title(房间标题)": "教科书不教的，我这里都有",
-    "room_cate(房间分类)": "鱼教",
-    "anchor_name(主播ID)": "都说我名字很LOW",
-    "watch_num(主播热度)": "10.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/08/06/2a1aadd5c86fe1ec34f027d956f5f632.jpg",
-    "room_title(房间标题)": "今年天我是梦中情苍",
-    "room_cate(房间分类)": "剑网3",
-    "anchor_name(主播ID)": "雨雨雨雨豪",
-    "watch_num(主播热度)": "10.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/07/25/0d283a514b9c6de3cd3c7bf048635a83.jpg",
-    "room_title(房间标题)": "【交友】像只鱼儿在你的池塘",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "王者一王者1st",
-    "watch_num(主播热度)": "6.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/85829_1356.png",
-    "room_title(房间标题)": "吃个鸡美滋滋 85829",
-    "room_cate(房间分类)": "美食",
-    "anchor_name(主播ID)": "主播串哥",
-    "watch_num(主播热度)": "6.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/453605_1356.png",
-    "room_title(房间标题)": "冲分冲分冲分 453605",
-    "room_cate(房间分类)": "猫和老鼠",
-    "anchor_name(主播ID)": "津津有味大西瓜",
-    "watch_num(主播热度)": "10.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1747051_1357.png",
-    "room_title(房间标题)": "【公益█不卖元宝█散人打金传奇】",
-    "room_cate(房间分类)": "传奇",
-    "anchor_name(主播ID)": "80星王合击散人服",
-    "watch_num(主播热度)": "10.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4256832_1352.png",
-    "room_title(房间标题)": "完美无暇的怀旧服插件在鱼吧",
-    "room_cate(房间分类)": "魔兽怀旧服",
-    "anchor_name(主播ID)": "轻轻叶落灬",
-    "watch_num(主播热度)": "10.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/15/1062543_20190815162925_small.jpg",
-    "room_title(房间标题)": "九月也要加油啊",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "橙子酱姐姐",
-    "watch_num(主播热度)": "6.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/2935323_1352.png",
-    "room_title(房间标题)": "【瑶瑶】童年阴影  恐怖 丧尸 经典",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "丶小跟班丿瑶瑶",
-    "watch_num(主播热度)": "6.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5532877_1347.png",
-    "room_title(房间标题)": "国王了先换号玩 5532877",
-    "room_cate(房间分类)": "自走棋",
-    "anchor_name(主播ID)": "华府丶csy影",
-    "watch_num(主播热度)": "10.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/23/4a2af5b53f8104687274d9241e1f56bc.jpg",
-    "room_title(房间标题)": "羽大炮：自闭降孔5000手+",
-    "room_cate(房间分类)": "逆水寒",
-    "anchor_name(主播ID)": "小主播羽大炮",
-    "watch_num(主播热度)": "10.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/2736403_1352.png",
-    "room_title(房间标题)": "愈❥»早起的非酋没道具",
-    "room_cate(房间分类)": "独立小众",
-    "anchor_name(主播ID)": "阿愈Ayu",
-    "watch_num(主播热度)": "10.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/3439096_1216.png",
-    "room_title(房间标题)": "杀死狄仁杰、活捉燕双鹰！",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "当燕双鹰遇见李元芳",
-    "watch_num(主播热度)": "6.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/09/05/8e06e4a31e402bca3b090fbc10d204c8.jpg",
-    "room_title(房间标题)": "钢管舞直播间，飞机跳舞",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/07/27/c87af3f83ae434c941a93cbe92de5d48.jpg",
+    "room_title(房间标题)": "我超级喜欢你哦！",
     "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "董事长6神",
-    "watch_num(主播热度)": "6.5万"
+    "anchor_name(主播ID)": "小安韵baby",
+    "watch_num(主播热度)": "21.9万"
 }
 {
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/28/1cd62b1120c5ae2ce3dd6c01f6216b35.jpg",
-    "room_title(房间标题)": "六工程填下无敌",
-    "room_cate(房间分类)": "赤潮自走棋",
-    "anchor_name(主播ID)": "MODcc",
-    "watch_num(主播热度)": "10.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/09/02/8d788f0077cbf58b32cb5b307f59c8aa.jpg",
-    "room_title(房间标题)": "E+小磊：首胜 变异 核心 极品 搞起",
-    "room_cate(房间分类)": "逆战",
-    "anchor_name(主播ID)": "253516丶小磊",
-    "watch_num(主播热度)": "10.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/138293_1356.png",
-    "room_title(房间标题)": "呆呆:调时差中，白天云顶，晚吃鸡",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "天然呆老湿",
-    "watch_num(主播热度)": "10.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/08/15/0a7a0fa394b9852da0699d12a3f69012_big.jpg",
-    "room_title(房间标题)": "愿有岁月可回首，且以深情共白头",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "宝林兄",
-    "watch_num(主播热度)": "6.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/36337_1356.png",
-    "room_title(房间标题)": "❤️兮里❤️高分 科幻 喜剧 鬼片 动作",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "酷炫小剧场",
-    "watch_num(主播热度)": "6.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/469731_1356.png",
-    "room_title(房间标题)": "酸奶:欢迎来到酸老四的直播间",
-    "room_cate(房间分类)": "多多自走棋",
-    "anchor_name(主播ID)": "酸酸酸奶君",
-    "watch_num(主播热度)": "10.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4304118_1352.png",
-    "room_title(房间标题)": "国服第一程咬金打野，如同外挂帮妹子戒网瘾",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "我叫皮老师",
-    "watch_num(主播热度)": "10.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4527270_1352.png",
-    "room_title(房间标题)": "最初：渝北顶尖卡莎细节教学！",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "最初卡莎",
-    "watch_num(主播热度)": "10.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190905/2758565_1622.png",
-    "room_title(房间标题)": "【牛叔】几分钟看完各种美国大片",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "牛叔说电影",
-    "watch_num(主播热度)": "6.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6557037_1353.png",
-    "room_title(房间标题)": "❤️砂糖❤️陪你看电影",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "甜甜甜砂糖",
-    "watch_num(主播热度)": "6.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/222931_1356.png",
-    "room_title(房间标题)": "听一听、打开人生大格局",
-    "room_cate(房间分类)": "鱼教",
-    "anchor_name(主播ID)": "真的很博通",
-    "watch_num(主播热度)": "10.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/444146_1356.png",
-    "room_title(房间标题)": "华硕芝奇Bykski迎广309联合首发",
-    "room_cate(房间分类)": "数码科技",
-    "anchor_name(主播ID)": "上海老姚",
-    "watch_num(主播热度)": "10.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/600594_1356.png",
-    "room_title(房间标题)": "9月友情卷6盘6烈炼狱加特林",
-    "room_cate(房间分类)": "穿越火线",
-    "anchor_name(主播ID)": "老V丶",
-    "watch_num(主播热度)": "10.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1412450_1356.png",
-    "room_title(房间标题)": "沙坑排钩钓甲鱼走起",
-    "room_cate(房间分类)": "乡野",
-    "anchor_name(主播ID)": "野区光头强",
-    "watch_num(主播热度)": "6.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/10/511452_20190710174340_small.jpg",
-    "room_title(房间标题)": "我要忘记你的样子 511452",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "心心心念念",
-    "watch_num(主播热度)": "6.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/110249_1356.png",
-    "room_title(房间标题)": "小高，婚事搞定了，该搞定等级了。",
-    "room_cate(房间分类)": "魔兽怀旧服",
-    "anchor_name(主播ID)": "dy小高",
-    "watch_num(主播热度)": "10.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/105415_1356.png",
-    "room_title(房间标题)": "单排最强刘备",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "刘小备105415",
-    "watch_num(主播热度)": "10.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/23/5c667578f19b8bdfe7195426211faf02.jpg",
-    "room_title(房间标题)": "东南亚第一快",
-    "room_cate(房间分类)": "跑跑手游",
-    "anchor_name(主播ID)": "框东老贼丶",
-    "watch_num(主播热度)": "10.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/7380797_1353.png",
-    "room_title(房间标题)": "❤只想做个被人宠爱的小孩子",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "夏木ayo",
-    "watch_num(主播热度)": "6.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/07/26/b8d58250fdff3a0b564742abf4765000_big.jpg",
-    "room_title(房间标题)": "用心唱给你听 6345472",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "栖梧灬",
-    "watch_num(主播热度)": "6.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/7180846_1353.png",
-    "room_title(房间标题)": "最具观赏的峡谷千分剑姬",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "jjking剑姬",
-    "watch_num(主播热度)": "10.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/20/e85858440dfaed0a644149845d9b7965.jpg",
-    "room_title(房间标题)": "两飞机极速车神",
-    "room_cate(房间分类)": "QQ飞车",
-    "anchor_name(主播ID)": "丨北晨丨",
-    "watch_num(主播热度)": "10.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4352605_1352.png",
-    "room_title(房间标题)": "胖萱：不太聪明的亚子❤",
-    "room_cate(房间分类)": "穿越火线",
-    "anchor_name(主播ID)": "小公主安筱萱",
-    "watch_num(主播热度)": "10.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/425704_1356.png",
-    "room_title(房间标题)": "人在斗鱼,笑一笑休息室24小时营业小屋",
-    "room_cate(房间分类)": "二次元",
-    "anchor_name(主播ID)": "关注破100W的男人",
-    "watch_num(主播热度)": "6.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/25/5664273_20190825135747.jpg",
-    "room_title(房间标题)": "想带你回直播间  藏起来",
+    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/09/07/2798748_20190907150245.jpg",
+    "room_title(房间标题)": "春风两不沾 风雪不相关",
     "room_cate(房间分类)": "电台",
-    "anchor_name(主播ID)": "我的耳朵去哪啦",
-    "watch_num(主播热度)": "6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1747082_1357.png",
-    "room_title(房间标题)": "渝三刀沉默版本单职业",
-    "room_cate(房间分类)": "传奇",
-    "anchor_name(主播ID)": "卉唲",
-    "watch_num(主播热度)": "10.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4334526_1352.png",
-    "room_title(房间标题)": "霖疯单排40星冲国服玄策！",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "渝万丶霖疯",
-    "watch_num(主播热度)": "10万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/3258_1356.png",
-    "room_title(房间标题)": "从零单排 鱼塘挣扎！",
-    "room_cate(房间分类)": "DOTA2",
-    "anchor_name(主播ID)": "杰出哥",
-    "watch_num(主播热度)": "10万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6783103_5253211_1aad1_2_1350.jpg",
-    "room_title(房间标题)": "我是可爱的女孩～你是可爱～6341",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "蕊儿u",
-    "watch_num(主播热度)": "6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4660064_4095665_2e806_2_1346.jpg",
-    "room_title(房间标题)": "成为你的有可能",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "李美子er",
-    "watch_num(主播热度)": "6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/530451_1356.png",
-    "room_title(房间标题)": "我一脚踏空 我就要飞起来了",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "远远妹",
-    "watch_num(主播热度)": "10万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5077248_1352.png",
-    "room_title(房间标题)": "开始冲战神啦！冲鸭~！！！",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "喜欢小栗子叭",
-    "watch_num(主播热度)": "10万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/508984_1356.png",
-    "room_title(房间标题)": "空头狂魔/单排战神/匹配老外/",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "主播八戒戒",
-    "watch_num(主播热度)": "9.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2018/06/19/526583_20180619010107_small.jpg",
-    "room_title(房间标题)": "柠檬树上柠檬果 柠檬树下只有我~",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "Y丶薄荷",
-    "watch_num(主播热度)": "6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/7183083_1353.png",
-    "room_title(房间标题)": "你懂得越多 懂你的越少",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "大仙懒得理你",
-    "watch_num(主播热度)": "6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4589685_1352.png",
-    "room_title(房间标题)": "斗鱼无偿带萌新创始人（滑稽）",
-    "room_cate(房间分类)": "怪物猎人",
-    "anchor_name(主播ID)": "怪物猎人丶盼盼",
-    "watch_num(主播热度)": "9.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2018/09/19/d0191557c83dbd9d426304e67230fb78.png",
-    "room_title(房间标题)": "【西门暖男晋】在线抽终极挑战",
-    "room_cate(房间分类)": "皇室战争",
-    "anchor_name(主播ID)": "Prince灬尜瑨",
-    "watch_num(主播热度)": "9.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/47895_1356.png",
-    "room_title(房间标题)": "官网领英雄级武器套装KOL47895",
-    "room_cate(房间分类)": "穿越火线",
-    "anchor_name(主播ID)": "白鲨加菲",
-    "watch_num(主播热度)": "9.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/09/06/739192_20190906091217_small.jpg",
-    "room_title(房间标题)": "九月biubiubiu~",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "小佳Nier",
-    "watch_num(主播热度)": "6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6864152_1353.png",
-    "room_title(房间标题)": "户外抽水捕鱼",
-    "room_cate(房间分类)": "乡野",
-    "anchor_name(主播ID)": "户外菜鸟队",
-    "watch_num(主播热度)": "6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1065655_1356.png",
-    "room_title(房间标题)": "峡谷单排了奥",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "天仙老婆呀",
-    "watch_num(主播热度)": "9.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5684866_1352.png",
-    "room_title(房间标题)": "老白全渠道疾风4万米",
-    "room_cate(房间分类)": "忍者必须死3",
-    "anchor_name(主播ID)": "很久很久以前的暖阳阳",
-    "watch_num(主播热度)": "9.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1522538_1356.png",
-    "room_title(房间标题)": "♦️心有猛虎嗷呜嗷呜～",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "小污女的草莓味",
-    "watch_num(主播热度)": "9.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/09/02/7512931_20190902123544.jpg",
-    "room_title(房间标题)": "爱约一你的酒馆",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "爱约一你的酒馆",
-    "watch_num(主播热度)": "5.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6839264_1353.png",
-    "room_title(房间标题)": "【小懒猫】猫猫陪你看电影",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "小懒猫爱吃辣",
-    "watch_num(主播热度)": "5.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1746964_1357.png",
-    "room_title(房间标题)": "公益单职业-《三国霸业》",
-    "room_cate(房间分类)": "传奇",
-    "anchor_name(主播ID)": "三国霸业直播间",
-    "watch_num(主播热度)": "9.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1461520_1356.png",
-    "room_title(房间标题)": "星耀钻石带粉五排办卡上车~",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "上海饭饭",
-    "watch_num(主播热度)": "9.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4490802_1352.png",
-    "room_title(房间标题)": "【Jeeee】 一起画个龙",
-    "room_cate(房间分类)": "APEX英雄",
-    "anchor_name(主播ID)": "JeeeeeeeeE丶",
-    "watch_num(主播热度)": "9.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/09/03/0143711197217ff96a793f2d8d0b4e56.jpg",
-    "room_title(房间标题)": "一个万分想把歌唱好的瞎跳妹妹",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "小惊喜xx",
-    "watch_num(主播热度)": "5.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4725625_771592_1d705_2_1354.jpg",
-    "room_title(房间标题)": "今天你吃零食了吗4725625",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "羊怼怼丶",
-    "watch_num(主播热度)": "5.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/635550_1356.png",
-    "room_title(房间标题)": "最后一天报名了，第五届水友赛！",
-    "room_cate(房间分类)": "棋牌娱乐",
-    "anchor_name(主播ID)": "777丶少将测评未来",
-    "watch_num(主播热度)": "9.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/534571_1356.png",
-    "room_title(房间标题)": "【浅浅】普通发标准的御姐",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "温柔御姐笑浅浅",
-    "watch_num(主播热度)": "9.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/21/413ad631022e76c0d6560f20d706a884.jpg",
-    "room_title(房间标题)": "排位帝：玩命才会得到想要的",
-    "room_cate(房间分类)": "QQ飞车",
-    "anchor_name(主播ID)": "一直在努力的炮哥",
-    "watch_num(主播热度)": "9.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/206858_1356.png",
-    "room_title(房间标题)": "【动漫】热血 木叶忍者 草帽路飞 青春",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "所有人都在装",
-    "watch_num(主播热度)": "5.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/07/13/1272264_20190713192949_small.jpg",
-    "room_title(房间标题)": "没人疼没人爱的菁菁",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "菁菁Lucky丶",
-    "watch_num(主播热度)": "5.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/253204_1356.png",
-    "room_title(房间标题)": "【声优】最佳男主播？",
-    "room_cate(房间分类)": "探灵笔记",
-    "anchor_name(主播ID)": "暖冬",
-    "watch_num(主播热度)": "9.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/26764_1356.png",
-    "room_title(房间标题)": "小天真：大地母亲忽悠着你",
-    "room_cate(房间分类)": "魔兽世界",
-    "anchor_name(主播ID)": "小天真么么哒",
-    "watch_num(主播热度)": "9.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/210398_1356.png",
-    "room_title(房间标题)": "峡谷第一女烬：艺术就是电刑",
-    "room_cate(房间分类)": "英雄联盟",
-    "anchor_name(主播ID)": "李冉冉i",
-    "watch_num(主播热度)": "9.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1377142_1356.png",
-    "room_title(房间标题)": "【凌儿】就想你笑",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "丢了魂的凌儿",
-    "watch_num(主播热度)": "5.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/74374_1356.png",
-    "room_title(房间标题)": "【冰冰】恐怖科幻经典电影",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "Poison丶冰冰",
-    "watch_num(主播热度)": "5.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6305082_1353.png",
-    "room_title(房间标题)": "耀光旗下 品牌传奇",
-    "room_cate(房间分类)": "传奇",
-    "anchor_name(主播ID)": "侠客岛副岛主",
-    "watch_num(主播热度)": "9.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/9847_1356.png",
-    "room_title(房间标题)": "今晚9点办卡抽PS4❤最强双刀少女",
-    "room_cate(房间分类)": "怪物猎人",
-    "anchor_name(主播ID)": "丶干物喵",
-    "watch_num(主播热度)": "9.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/224234_1346.png",
-    "room_title(房间标题)": "通宵伴侣，熬夜搭档~~224234",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "蜜茶Aimee",
-    "watch_num(主播热度)": "9.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6551572_7015038_1e610_2_1347.jpg",
-    "room_title(房间标题)": "弹钢琴的小姐姐",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "小涵最好啦",
-    "watch_num(主播热度)": "5.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/629801_1356.png",
-    "room_title(房间标题)": "施坦威皇冠珠宝钢琴了解一下",
-    "room_cate(房间分类)": "二次元",
-    "anchor_name(主播ID)": "妙音巧奇",
-    "watch_num(主播热度)": "5.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/7005869_1353.png",
-    "room_title(房间标题)": "代播的徐伦只想过平静的生活",
-    "room_cate(房间分类)": "lol云顶之弈",
-    "anchor_name(主播ID)": "哆啦阿b",
-    "watch_num(主播热度)": "9.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/14866_1356.png",
-    "room_title(房间标题)": "万物皆可赌，弹幕点播阵容",
-    "room_cate(房间分类)": "lol云顶之弈",
-    "anchor_name(主播ID)": "漆夜",
-    "watch_num(主播热度)": "9.5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/08/09/4afe03be5df7d924717600334e274dc6.jpg",
-    "room_title(房间标题)": "天下何人不喷人！何人不被喷！",
-    "room_cate(房间分类)": "狼人杀",
-    "anchor_name(主播ID)": "天下第一吼",
-    "watch_num(主播热度)": "9.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5250742_2485173_0ef32_2_1349.jpg",
-    "room_title(房间标题)": "重新开始吧~~",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "阮绵绵童鞋",
-    "watch_num(主播热度)": "5.4万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6164235_7320450_4422e_2_1338.jpg",
-    "room_title(房间标题)": "新人求关注 6164235",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "我叫杨大微",
-    "watch_num(主播热度)": "5.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5100130_1352.png",
-    "room_title(房间标题)": "这把狙骚的很哟",
-    "room_cate(房间分类)": "穿越火线",
-    "anchor_name(主播ID)": "石乐志Q7",
-    "watch_num(主播热度)": "9.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/cover_update/2019/01/24/58662be34ddccd51d9e6ce3517a18f1e.jpg",
-    "room_title(房间标题)": "今天又是充满排队的一天",
-    "room_cate(房间分类)": "第5人格",
-    "anchor_name(主播ID)": "狼腾小房鸭",
-    "watch_num(主播热度)": "9.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/680680_1356.png",
-    "room_title(房间标题)": "二狗子：你老婆来了",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "陈吃吃阿",
-    "watch_num(主播热度)": "9.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6928069_1353.png",
-    "room_title(房间标题)": "【三月陪看】网恋选我我超甜",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "三月skr",
-    "watch_num(主播热度)": "5.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/925724_1356.png",
-    "room_title(房间标题)": "【4K超清】主播陪你看电影!",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "A萌七七",
-    "watch_num(主播热度)": "5.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1910041_1352.png",
-    "room_title(房间标题)": "你的宝藏男孩。 1910041",
-    "room_cate(房间分类)": "绝地求生",
-    "anchor_name(主播ID)": "TAT大白",
-    "watch_num(主播热度)": "9.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/282249_1356.png",
-    "room_title(房间标题)": "【默默】使命召唤14 白给",
-    "room_cate(房间分类)": "使命召唤",
-    "anchor_name(主播ID)": "默默T6",
-    "watch_num(主播热度)": "9.1万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5804376_1352.png",
-    "room_title(房间标题)": "重庆第一单挑王—五指初体验1.0",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "72Rc丶",
-    "watch_num(主播热度)": "9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6017319_1347.png",
-    "room_title(房间标题)": "我回来了！ 6017319",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "小小小月亮亮",
-    "watch_num(主播热度)": "5.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/09/01/bbe6a2a52138b7837d4dd451ed943dc6.jpg",
-    "room_title(房间标题)": "有人疼我吗？",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "菟乐芙",
-    "watch_num(主播热度)": "5.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/2482260_1352.png",
-    "room_title(房间标题)": "信仰：你回归 我带路-全区做装备开箱子！",
-    "room_cate(房间分类)": "剑灵",
-    "anchor_name(主播ID)": "剑灵丶信仰",
-    "watch_num(主播热度)": "9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/262831_1356.png",
-    "room_title(房间标题)": "剑豪天下第一？DNF专业答疑看号",
-    "room_cate(房间分类)": "DNF",
-    "anchor_name(主播ID)": "修仙的小迪",
-    "watch_num(主播热度)": "9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1335990_1351.png",
-    "room_title(房间标题)": "怀旧服练级作息混乱，鸽两天，60见",
-    "room_cate(房间分类)": "魔兽世界",
-    "anchor_name(主播ID)": "喵呜呜丷",
-    "watch_num(主播热度)": "8.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/31/7505756_20190831152251.jpg",
-    "room_title(房间标题)": "星娱一春心荡漾的直播间",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "星娱一春心荡漾",
-    "watch_num(主播热度)": "5.3万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/07/27/286a7ad26aa433420b2db9c1df87eb09.jpg",
-    "room_title(房间标题)": "武汉唱跳萌新在等一个欣赏她的人",
-    "room_cate(房间分类)": "舞蹈",
-    "anchor_name(主播ID)": "李幽凝呐ii",
-    "watch_num(主播热度)": "5.2万"
-}
-{
-    "room_img(房间封面)": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png",
-    "room_title(房间标题)": "国家大师网络精彩对局解说",
-    "room_cate(房间分类)": "中国象棋",
-    "anchor_name(主播ID)": "金玉满堂2016",
-    "watch_num(主播热度)": "8.9万"
-}
-{
-    "room_img(房间封面)": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png",
-    "room_title(房间标题)": "兔子精的快乐时刻～",
-    "room_cate(房间分类)": "穿越火线",
-    "anchor_name(主播ID)": "兔子精my",
-    "watch_num(主播热度)": "8.8万"
-}
-{
-    "room_img(房间封面)": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png",
-    "room_title(房间标题)": "职业榜一国服最强M4",
-    "room_cate(房间分类)": "CF手游",
-    "anchor_name(主播ID)": "心态丶SV",
-    "watch_num(主播热度)": "8.8万"
-}
-{
-    "room_img(房间封面)": "https://shark2.douyucdn.cn/front-publish/sdk-file-master/room_list_default@2x_a960c5b.png",
-    "room_title(房间标题)": "好好生活 慢慢相遇 511741",
-    "room_cate(房间分类)": "乡野",
-    "anchor_name(主播ID)": "东北郭老二",
-    "watch_num(主播热度)": "5.2万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/04/02/159e41ef81798a598dfb2128f3fdd870_big.jpg",
-    "room_title(房间标题)": "诚招真爱房管",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "夏雨Sherry",
-    "watch_num(主播热度)": "5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/7356962_1353.png",
-    "room_title(房间标题)": "卓威极限之地csgo东南亚决赛",
-    "room_cate(房间分类)": "CS:GO",
-    "anchor_name(主播ID)": "沈江华Mahone",
-    "watch_num(主播热度)": "8.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5507032_1352.png",
-    "room_title(房间标题)": "DOT明星复活赛 5507032",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "阳羊阿",
-    "watch_num(主播热度)": "8.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/7457181_1354.png",
-    "room_title(房间标题)": "#三区榜一国王#王牌吃鸡新模式·",
-    "room_cate(房间分类)": "王牌战士",
-    "anchor_name(主播ID)": "蛇眼大师",
-    "watch_num(主播热度)": "8.8万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2018/12/27/e43cbbda9fc9224a59c96866de40f0c5.png",
-    "room_title(房间标题)": "【JK美少女】解忧曼曼刷礼物的都有妹❤",
-    "room_cate(房间分类)": "二次元",
-    "anchor_name(主播ID)": "娇曼honey",
-    "watch_num(主播热度)": "5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6849806_1353.png",
-    "room_title(房间标题)": "【小冥】领取今日份笑容",
-    "room_cate(房间分类)": "一起看",
-    "anchor_name(主播ID)": "超级厉害的小冥",
-    "watch_num(主播热度)": "5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6381722_1353.png",
-    "room_title(房间标题)": "2天急速上战神",
-    "room_cate(房间分类)": "和平精英",
-    "anchor_name(主播ID)": "Ty教主",
-    "watch_num(主播热度)": "8.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/1428422_1356.png",
-    "room_title(房间标题)": "王者运营，套路讲解",
-    "room_cate(房间分类)": "lol云顶之弈",
-    "anchor_name(主播ID)": "索酷",
-    "watch_num(主播热度)": "8.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/682821_1356.png",
-    "room_title(房间标题)": "荣耀射手小公主在线坑人",
-    "room_cate(房间分类)": "王者荣耀",
-    "anchor_name(主播ID)": "苏小懒38D",
-    "watch_num(主播热度)": "8.7万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/16/7273875_20190816111807_small.jpg",
-    "room_title(房间标题)": "今天满月啦 7273875",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "静静乖球的",
-    "watch_num(主播热度)": "5万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/09/01/7512856_20190901002815.jpg",
-    "room_title(房间标题)": "诗与远方，还有故事与你",
-    "room_cate(房间分类)": "交友",
-    "anchor_name(主播ID)": "爱约一故事与你i",
-    "watch_num(主播热度)": "4.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/5943281_1352.png",
-    "room_title(房间标题)": "【阿俊】首播幽灵行动断点内侧",
-    "room_cate(房间分类)": "恐怖游戏",
-    "anchor_name(主播ID)": "阿俊丶ll",
-    "watch_num(主播热度)": "8.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/4532833_1352.png",
-    "room_title(房间标题)": "不要你觉得 要我觉得 你个憨憨",
-    "room_cate(房间分类)": "CS:GO",
-    "anchor_name(主播ID)": "喔唷童夕",
-    "watch_num(主播热度)": "8.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/asrpic/190906/6591422_1353.png",
-    "room_title(房间标题)": "大号皇后了，小号也冲下~",
-    "room_cate(房间分类)": "自走棋",
-    "anchor_name(主播ID)": "小红豆阿",
-    "watch_num(主播热度)": "8.6万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/roomCover/2019/09/04/a91a2176723e207319eb4be6b70e4119.jpg",
-    "room_title(房间标题)": "温柔御姐电台",
-    "room_cate(房间分类)": "电台",
-    "anchor_name(主播ID)": "米嘉Mika",
-    "watch_num(主播热度)": "4.9万"
-}
-{
-    "room_img(房间封面)": "https://rpic.douyucdn.cn/live-cover/appCovers/2019/08/17/7419003_20190817150257_small.jpg",
-    "room_title(房间标题)": "白茶清欢无别事 7419003",
-    "room_cate(房间分类)": "颜值",
-    "anchor_name(主播ID)": "缇娜Zzz",
-    "watch_num(主播热度)": "4.8万"
+    "anchor_name(主播ID)": "是大月呀",
+    "watch_num(主播热度)": "12.8万"
 }

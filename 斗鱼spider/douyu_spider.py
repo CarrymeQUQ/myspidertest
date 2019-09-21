@@ -71,11 +71,14 @@ class DouyuSpider:
     def run(self):
         # 最大化窗口
         self.driver.maximize_window()
+
         # self.driver.set_window_size(1000, 30000)
         # 1.start_url
         # 2.发送请求 获取响应
         self.driver.get(self.start_url)
         time.sleep(1)
+        # 点击
+        self.driver.find_element_by_xpath("//label[@class='Aside-toggle']").click()
         # 3.提取数据 提取下一页的元素
         content_list, next_url = self.get_content_list()
         # 4.保存数据
