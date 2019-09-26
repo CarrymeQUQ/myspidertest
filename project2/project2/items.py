@@ -11,7 +11,6 @@ import scrapy
 class Project2Item(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    b_cate = scrapy.Field()
     m_cate = scrapy.Field()
     s_cate = scrapy.Field()
     s_href = scrapy.Field()
