@@ -11,9 +11,19 @@ class QiubaiSpider:
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36"}
         self.add_url = "https://www.qiushibaike.com"
         self.session = requests.session()
+        self.PROXY_POOL_URL = 'http://localhost:5555/random'
+
+    def get_proxy(self):
+        try:
+            response = requests.get(self.PROXY_POOL_URL)
+            if response.status_code == 200:
+                return response.text
+        except ConnectionError:
+            return None
 
     def parse_url(self, url):
-        response = self.session.get(url, headers=self.headers)
+        proxies = self.get_proxy()
+        response = self.session.get(url, headers=self.headers, proxies=proxies)
         html_str = response.content.decode()
         # print(html_str)
         return html_str
