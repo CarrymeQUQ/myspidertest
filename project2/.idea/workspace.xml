@@ -28,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project2/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="920">
+              <caret line="54" column="35" lean-forward="true" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
               <folding>
                 <element signature="e#194#233#0" expanded="true" />
               </folding>
@@ -40,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project2/middlewares.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -146,16 +146,15 @@
       <workItem from="1567955021230" duration="11028000" />
       <workItem from="1567999942631" duration="25387000" />
       <workItem from="1568086306405" duration="604000" />
-      <workItem from="1569467374714" duration="4271000" />
+      <workItem from="1569467374714" duration="4905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41290000" />
+    <option name="totallyTimeSpent" value="41924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="28" width="1377" height="872" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16477703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -184,9 +183,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/project2/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/project2/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -213,13 +209,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project2/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="920">
+          <caret line="54" column="35" lean-forward="true" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
           <folding>
             <element signature="e#194#233#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
