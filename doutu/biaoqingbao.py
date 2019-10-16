@@ -42,7 +42,7 @@ def download_biaoqingbaos(url, path):
                 img = requests.get(image).content
                 f.write(img)
         except OSError:
-            print('length  failed')
+            print('length  failed(图片名过长)')
             break
 
 
