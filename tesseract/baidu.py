@@ -29,7 +29,7 @@ image = Image.open('20181229205022579.png')
 
 image = image.convert('L')
 image.show()
-# 二值化处理
+# 二值化处理 默认127
 
 # image = image.convert('1')
 
