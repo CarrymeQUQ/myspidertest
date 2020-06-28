@@ -1,0 +1,159 @@
+# 导入 webdriver
+from selenium import webdriver
+
+# 调用键盘按键操作时需要引入的Keys包
+from selenium.webdriver.common.keys import Keys
+
+# ctrl+a 全选输入框内容
+driver.find_element_by_id("kw").send_keys(Keys.CONTROL,'a')
+
+# ctrl+x 剪切输入框内容
+driver.find_element_by_id("kw").send_keys(Keys.CONTROL,'x')
+
+# 模拟Enter回车键
+driver.find_element_by_id("su").send_keys(Keys.RETURN)
+
+# 清除输入框内容
+driver.find_element_by_id("kw").clear()
+
+# 生成新的页面快照
+driver.save_screenshot("itcast.png")
+
+# 获取当前url
+print driver.current_url
+
+# 关闭当前页面，如果只有一个页面，会关闭浏览器
+# driver.close()
+
+# 关闭浏览器
+driver.quit()
+
+# id="kw"是百度搜索输入框，输入字符串"长城"
+driver.find_element_by_id("kw").send_keys(u"长城")
+
+# id="su"是百度搜索按钮，click() 是模拟点击
+driver.find_element_by_id("su").click()
+
+# 获取name标签值
+element = driver.find_element_by_name("user-name")
+
+find_element_by_id
+find_elements_by_name
+find_elements_by_xpath
+find_elements_by_link_text
+find_elements_by_partial_link_text
+find_elements_by_tag_name
+find_elements_by_class_name
+find_elements_by_css_selector
+
+一个浏览器肯定会有很多窗口，所以我们肯定要有方法来实现窗口的切换。切换窗口的方法如下：
+
+driver.switch_to.window("this is window name")
+也可以使用 window_handles 方法来获取每个窗口的操作对象。例如：
+
+for handle in driver.window_handles:
+    driver.switch_to_window(handle)
+#切换到当前最新打开的窗口
+windows=driver.window_handles
+driver.switch_to(windows[-1])
+
+操作页面的前进和后退功能：
+
+driver.forward()     #前进
+driver.back()        # 后退
+
+find_element 和find_elements的区别：返回一个和返回一个列表
+by_link_text和by_partial_link_text的区别：全部文本和包含某个文本
+by_css_selector的用法： #food span.dairy.aged
+by_xpath中获取属性和文本需要使用get_attribute() 和.text
+find_elements返回一个列表，没有就是空列表
+在判断是否有下一页的时候，使用find_elements来根据结果的列表长度来判断
+如果页面中含有iframe、frame，需要先调用driver.switch_to.frame的方法切换到frame中才能定位元素
+
+chromedirver下载地址:https://npm.taobao.org/mirrors/chromedriver
+
+
+
+
+
+
+
+
+判断目录是否存在
+import os
+dirs = 'C:\Users\Administrator\Desktop\work\python\'
+
+if not os.path.exists(dirs):
+os.makedirs(dirs)
+
+
+判断文件夹是否存在
+
+import os
+
+path =os.path.dirname(os.getcwd())+ '\\Screenshots\\'
+
+if not os.path.exists(path):
+os.makedirs(path)
+
+
+
+判断文件是否存在
+import os
+filename ='C:\Users\Administrator\Desktop\work\python\poem.txt'
+
+if not os.path.exists(filename):
+os.system(r"touch {}".format(path))  #调用系统命令行来创建文件
+
+
+
+
+
+
+
+
+
+import pandas as pd
+import pymysql
+
+## 加上字符集参数，防止中文乱码
+dbconn=pymysql.connect(
+  host="**********",
+  database="kimbo",
+  user="kimbo_test",
+  password="******",
+  port=3306,
+  charset='utf8'
+ )
+
+#sql语句
+sqlcmd="select col_name,col_type,col_desc from itf_datadic_dtl_d limit 10"
+
+#利用pandas 模块导入mysql数据
+a=pd.read_sql(sqlcmd,dbconn)
+#取前5行数据
+b=a.head()
+print(b)
+
+
+
+
+# 导入模块
+import pymysql
+# 1.连接到mysql数据库
+conn = pymysql.connect(host='#', user='#', password='#', db='#', charset='utf8')
+# localhost连接本地数据库 user 用户名 password 密码 db数据库名称 charset 数据库编码格式
+# 2.创建游标对象
+cursor = pymysql.cursors.SSCursor(conn)/
+cursor = conn.cursor()
+# 3.组装sql语句 需要查询的MySQL语句
+sql = "select * from table_name"
+# 4.执行sql语句
+cursor.execute(sql)
+
+num=0
+while True:
+    row = cursor.fetchone()
+    if not row:
+        break
+    print(row)

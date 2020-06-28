@@ -3,7 +3,7 @@ import time
 import json
 import requests
 from pprint import pprint
-from pymongo import MongoClient
+# from pymongo import MongoClient
 
 
 class DouyuSpider:
@@ -12,8 +12,9 @@ class DouyuSpider:
         self.driver = webdriver.Chrome("../贴吧爬虫/chromedriver_linux64/chromedriver")
         self.headers = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36"}
         self.seesions = requests.session()
-        client = MongoClient(host="localhost", port=27017)
-        self.collection = client["douyu"]["douyupspider"]
+        print(self.seesions)
+        # client = MongoClient(host="localhost", port=27017)
+        # self.collection = client["douyu"]["douyupspider"]
 
     def get_content_list(self):
         # target = self.driver.find_element_by_xpath("//div[@class='ListFooter']")
@@ -91,7 +92,7 @@ class DouyuSpider:
             time.sleep(1)
             content_list, next_url = self.get_content_list()
             self.save_content_list(content_list)
-            self.save_to_mongodb(content_list)
+            # self.save_to_mongodb(content_list)
 
 
 if __name__ == '__main__':
